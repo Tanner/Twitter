@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2009_10 = 
  [ {
-  "source" : "<a href=\"http://playspymaster.com\" rel=\"nofollow\">Spymaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/playspymaster.com\" rel=\"nofollow\"\u003ESpymaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -10,18 +10,17 @@ Grailbird.data.tweets_2009_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "5305128174",
-  "text" : "I just reached level 2. #spymaster http://bit.ly/playspy",
+  "text" : "I just reached level 2. #spymaster http:\/\/bit.ly\/playspy",
   "id" : 5305128174,
-  "created_at" : "Sat Oct 31 02:46:10 +0000 2009",
+  "created_at" : "2009-10-31 00:00:00 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }

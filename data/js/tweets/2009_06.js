@@ -1,47 +1,45 @@
 Grailbird.data.tweets_2009_06 = 
  [ {
-  "source" : "<a href=\"http://twitter4r.rubyforge.org/\" rel=\"nofollow\">Twitter4R</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter4r.rubyforge.org\/\" rel=\"nofollow\"\u003ETwitter4R\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "2367380957",
-  "text" : "Just took my 63rd mugshot! http://www.dailymugshot.com/main/show/6630",
+  "text" : "Just took my 63rd mugshot! http:\/\/www.dailymugshot.com\/main\/show\/6630",
   "id" : 2367380957,
-  "created_at" : "Sun Jun 28 03:30:18 +0000 2009",
+  "created_at" : "2009-06-28 00:00:00 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://wiki.mozilla.org/Labs/Ubiquity\" rel=\"nofollow\">Ubiquity</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter4r.rubyforge.org\/\" rel=\"nofollow\"\u003ETwitter4R\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "2316664492",
-  "text" : "Test for ubiquiity",
-  "id" : 2316664492,
-  "created_at" : "Wed Jun 24 21:34:15 +0000 2009",
+  "geo" : { },
+  "id_str" : "2308790018",
+  "text" : "Just took my 62nd mugshot! http:\/\/www.dailymugshot.com\/main\/show\/6630",
+  "id" : 2308790018,
+  "created_at" : "2009-06-24 00:00:00 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
@@ -59,133 +57,149 @@ Grailbird.data.tweets_2009_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "2315801880",
-  "text" : "The Mega-Giveaway of Appstorm (@macappstorm) : Forklift & Flux http://bit.ly/eXEWt",
+  "text" : "The Mega-Giveaway of Appstorm (@macappstorm) : Forklift & Flux http:\/\/bit.ly\/eXEWt",
   "id" : 2315801880,
-  "created_at" : "Wed Jun 24 20:29:40 +0000 2009",
+  "created_at" : "2009-06-24 00:00:00 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter4r.rubyforge.org/\" rel=\"nofollow\">Twitter4R</a>",
+  "source" : "\u003Ca href=\"http:\/\/wiki.mozilla.org\/Labs\/Ubiquity\" rel=\"nofollow\"\u003EUbiquity\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "2308790018",
-  "text" : "Just took my 62nd mugshot! http://www.dailymugshot.com/main/show/6630",
-  "id" : 2308790018,
-  "created_at" : "Wed Jun 24 10:40:35 +0000 2009",
+  "geo" : { },
+  "id_str" : "2316664492",
+  "text" : "Test for ubiquiity",
+  "id" : 2316664492,
+  "created_at" : "2009-06-24 00:00:00 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter4r.rubyforge.org/\" rel=\"nofollow\">Twitter4R</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter4r.rubyforge.org\/\" rel=\"nofollow\"\u003ETwitter4R\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "2286843559",
-  "text" : "Just took my 61st mugshot! http://www.dailymugshot.com/main/show/6630",
+  "text" : "Just took my 61st mugshot! http:\/\/www.dailymugshot.com\/main\/show\/6630",
   "id" : 2286843559,
-  "created_at" : "Tue Jun 23 00:00:13 +0000 2009",
+  "created_at" : "2009-06-23 00:00:00 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter4r.rubyforge.org/\" rel=\"nofollow\">Twitter4R</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter4r.rubyforge.org\/\" rel=\"nofollow\"\u003ETwitter4R\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "2267930414",
-  "text" : "Just took my 60th mugshot! http://www.dailymugshot.com/main/show/6630",
+  "text" : "Just took my 60th mugshot! http:\/\/www.dailymugshot.com\/main\/show\/6630",
   "id" : 2267930414,
-  "created_at" : "Sun Jun 21 17:58:26 +0000 2009",
+  "created_at" : "2009-06-21 00:00:00 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter4r.rubyforge.org/\" rel=\"nofollow\">Twitter4R</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter4r.rubyforge.org\/\" rel=\"nofollow\"\u003ETwitter4R\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "2256593340",
-  "text" : "Just took my 59th mugshot! http://www.dailymugshot.com/main/show/6630",
+  "text" : "Just took my 59th mugshot! http:\/\/www.dailymugshot.com\/main\/show\/6630",
   "id" : 2256593340,
-  "created_at" : "Sat Jun 20 20:00:38 +0000 2009",
+  "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter4r.rubyforge.org/\" rel=\"nofollow\">Twitter4R</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter4r.rubyforge.org\/\" rel=\"nofollow\"\u003ETwitter4R\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "2196582624",
-  "text" : "Just took my 58th mugshot! http://www.dailymugshot.com/main/show/6630",
+  "text" : "Just took my 58th mugshot! http:\/\/www.dailymugshot.com\/main\/show\/6630",
   "id" : 2196582624,
-  "created_at" : "Tue Jun 16 19:39:49 +0000 2009",
+  "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
+    "id" : 7719912,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter4r.rubyforge.org\/\" rel=\"nofollow\"\u003ETwitter4R\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2097746294",
+  "text" : "Just took my 57th mugshot! http:\/\/www.dailymugshot.com\/main\/show\/6630",
+  "id" : 2097746294,
+  "created_at" : "2009-06-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Tanner Smith",
+    "screen_name" : "TannerLD",
+    "protected" : false,
+    "id_str" : "7719912",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
@@ -209,41 +223,17 @@ Grailbird.data.tweets_2009_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "2108806364",
-  "text" : "RT @macgasm We’re giving away PhoneView for the Mac. | Macgasm http://bit.ly/ICDDk (via @tweetmeme)",
+  "text" : "RT @macgasm We\u2019re giving away PhoneView for the Mac. | Macgasm http:\/\/bit.ly\/ICDDk (via @tweetmeme)",
   "id" : 2108806364,
-  "created_at" : "Wed Jun 10 21:45:41 +0000 2009",
+  "created_at" : "2009-06-10 00:00:00 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
-    "id" : 7719912,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://twitter4r.rubyforge.org/\" rel=\"nofollow\">Twitter4R</a>",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "2097746294",
-  "text" : "Just took my 57th mugshot! http://www.dailymugshot.com/main/show/6630",
-  "id" : 2097746294,
-  "created_at" : "Wed Jun 10 01:56:31 +0000 2009",
-  "user" : {
-    "name" : "Tanner Smith",
-    "screen_name" : "TannerLD",
-    "protected" : false,
-    "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }

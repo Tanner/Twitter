@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2012_05 = 
  [ {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Aral Balkan",
@@ -13,75 +13,72 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "208124953202139137",
   "text" : "RT @aral: Wrapping a web app in a native binary and calling it a native app is like embedding a PDF in a web site and calling it a web site.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "208071393064136706",
     "text" : "Wrapping a web app in a native binary and calling it a native app is like embedding a PDF in a web site and calling it a web site.",
     "id" : 208071393064136706,
-    "created_at" : "Thu May 31 05:44:20 +0000 2012",
+    "created_at" : "2012-05-31 05:44:20 +0000",
     "user" : {
       "name" : "Aral Balkan",
       "screen_name" : "aral",
       "protected" : false,
       "id_str" : "48903",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2402610195/l7da7z83oydda5ogs0az_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3368588846\/256379c601670ec2a0adf2d6a678a46d_normal.jpeg",
       "id" : 48903,
       "verified" : false
     }
   },
   "id" : 208124953202139137,
-  "created_at" : "Thu May 31 09:17:10 +0000 2012",
+  "created_at" : "2012-05-31 09:17:10 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 24, 44 ],
-      "url" : "http://t.co/j3tj2qHw",
-      "expanded_url" : "http://www.cocos2d-iphone.org/archives/1898",
-      "display_url" : "cocos2d-iphone.org/archives/1898"
+      "url" : "http:\/\/t.co\/j3tj2qHw",
+      "expanded_url" : "http:\/\/www.cocos2d-iphone.org\/archives\/1898",
+      "display_url" : "cocos2d-iphone.org\/archives\/1898"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207873907749957632",
-  "text" : "Oh hai cocos2d on HTML! http://t.co/j3tj2qHw",
+  "text" : "Oh hai cocos2d on HTML! http:\/\/t.co\/j3tj2qHw",
   "id" : 207873907749957632,
-  "created_at" : "Wed May 30 16:39:36 +0000 2012",
+  "created_at" : "2012-05-30 16:39:36 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "J Cornelius",
@@ -94,108 +91,104 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 53, 73 ],
-      "url" : "http://t.co/QLD0Rjzv",
-      "expanded_url" : "http://store.apple.com/",
+      "url" : "http:\/\/t.co\/QLD0Rjzv",
+      "expanded_url" : "http:\/\/store.apple.com\/",
       "display_url" : "store.apple.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207815916203941888",
-  "text" : "RT @jc: The Apple Store has been down for six hours: http://t.co/QLD0Rjzv",
+  "text" : "RT @jc: The Apple Store has been down for six hours: http:\/\/t.co\/QLD0Rjzv",
   "retweeted_status" : {
-    "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 45, 65 ],
-        "url" : "http://t.co/QLD0Rjzv",
-        "expanded_url" : "http://store.apple.com/",
+        "url" : "http:\/\/t.co\/QLD0Rjzv",
+        "expanded_url" : "http:\/\/store.apple.com\/",
         "display_url" : "store.apple.com"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "207797438147346432",
-    "text" : "The Apple Store has been down for six hours: http://t.co/QLD0Rjzv",
+    "text" : "The Apple Store has been down for six hours: http:\/\/t.co\/QLD0Rjzv",
     "id" : 207797438147346432,
-    "created_at" : "Wed May 30 11:35:44 +0000 2012",
+    "created_at" : "2012-05-30 11:35:44 +0000",
     "user" : {
       "name" : "J Cornelius",
       "screen_name" : "jc",
       "protected" : false,
       "id_str" : "877421",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2781474058/03b37d3da33ddb24032841a4ff94acc2_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3645952317\/6c8547d388267f68b2ce8fce366e7635_normal.jpeg",
       "id" : 877421,
       "verified" : false
     }
   },
   "id" : 207815916203941888,
-  "created_at" : "Wed May 30 12:49:10 +0000 2012",
+  "created_at" : "2012-05-30 12:49:10 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207790242621698048",
   "text" : "I miss the Apple Store sticky but the new page is nice.",
   "id" : 207790242621698048,
-  "created_at" : "Wed May 30 11:07:09 +0000 2012",
+  "created_at" : "2012-05-30 11:07:09 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 74, 94 ],
-      "url" : "http://t.co/sdC2c9dH",
-      "expanded_url" : "http://twitpic.com/9qwwva",
-      "display_url" : "twitpic.com/9qwwva"
+      "url" : "http:\/\/t.co\/sdC2c9dH",
+      "expanded_url" : "http:\/\/twitpic.com\/9qwwva",
+      "display_url" : "twitpic.com\/9qwwva"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207790152498683904",
-  "text" : "This is so wasteful on 1-2 page jobs with a printer that isn’t used much. http://t.co/sdC2c9dH",
+  "text" : "This is so wasteful on 1-2 page jobs with a printer that isn\u2019t used much. http:\/\/t.co\/sdC2c9dH",
   "id" : 207790152498683904,
-  "created_at" : "Wed May 30 11:06:47 +0000 2012",
+  "created_at" : "2012-05-30 11:06:47 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -205,46 +198,44 @@ Grailbird.data.tweets_2012_05 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207775186399920129",
   "text" : "When I get around to it, I'd like to try Emacs sometime. #nohate",
   "id" : 207775186399920129,
-  "created_at" : "Wed May 30 10:07:19 +0000 2012",
+  "created_at" : "2012-05-30 10:07:19 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207731213270654977",
   "text" : "I would be interested in the reasoning for the decision to add windows to Chrome OS.",
   "id" : 207731213270654977,
-  "created_at" : "Wed May 30 07:12:35 +0000 2012",
+  "created_at" : "2012-05-30 07:12:35 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Famiglietti",
@@ -258,14 +249,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "207596535939203072",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207596834078724096",
   "in_reply_to_user_id" : 15356371,
   "text" : "@afamiglietti Friend from MIT flew with a bag full of arduinos and hexadancinpod and calipers. Plus a roll of LEDs.",
   "id" : 207596834078724096,
   "in_reply_to_status_id" : 207596535939203072,
-  "created_at" : "Tue May 29 22:18:36 +0000 2012",
+  "created_at" : "2012-05-29 22:18:36 +0000",
   "in_reply_to_screen_name" : "afamiglietti",
   "in_reply_to_user_id_str" : "15356371",
   "user" : {
@@ -273,12 +263,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Visual Idiot",
@@ -291,70 +281,67 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207489819469807616",
   "text" : "RT @idiot: My hard drive has 943.1 Great Britains free. How many does yours have?",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "207445846529282049",
     "text" : "My hard drive has 943.1 Great Britains free. How many does yours have?",
     "id" : 207445846529282049,
-    "created_at" : "Tue May 29 12:18:38 +0000 2012",
+    "created_at" : "2012-05-29 12:18:38 +0000",
     "user" : {
       "name" : "Visual Idiot",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3142558755/e51759991f9e27f050fa6e96da5ff36e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000566928302\/c1a0dc3f9294a31330235def7898e0cf_normal.png",
       "id" : 202571491,
       "verified" : false
     }
   },
   "id" : 207489819469807616,
-  "created_at" : "Tue May 29 15:13:22 +0000 2012",
+  "created_at" : "2012-05-29 15:13:22 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207425065296470016",
   "text" : "Firefox is starting to get a bit too social wit h a giant Fox costume. Are they building a browser still?",
   "id" : 207425065296470016,
-  "created_at" : "Tue May 29 10:56:03 +0000 2012",
+  "created_at" : "2012-05-29 10:56:03 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Visual Idiot",
@@ -367,70 +354,67 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207353861306978304",
-  "text" : "RT @idiot: var portal = {\n    orange: function() { return location; },\n    blue: function() { return !portal.orange(); }\n}\n\nportal.porta ...",
+  "text" : "RT @idiot: var portal = \u007B\n    orange: function() \u007B return location; \u007D,\n    blue: function() \u007B return !portal.orange(); \u007D\n\u007D\n\nportal.porta ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "207350621500735489",
-    "text" : "var portal = {\n    orange: function() { return location; },\n    blue: function() { return !portal.orange(); }\n}\n\nportal.portal = portal;",
+    "text" : "var portal = \u007B\n    orange: function() \u007B return location; \u007D,\n    blue: function() \u007B return !portal.orange(); \u007D\n\u007D\n\nportal.portal = portal;",
     "id" : 207350621500735489,
-    "created_at" : "Tue May 29 06:00:15 +0000 2012",
+    "created_at" : "2012-05-29 06:00:15 +0000",
     "user" : {
       "name" : "Visual Idiot",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3142558755/e51759991f9e27f050fa6e96da5ff36e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000566928302\/c1a0dc3f9294a31330235def7898e0cf_normal.png",
       "id" : 202571491,
       "verified" : false
     }
   },
   "id" : 207353861306978304,
-  "created_at" : "Tue May 29 06:13:07 +0000 2012",
+  "created_at" : "2012-05-29 06:13:07 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207176956960186369",
   "text" : "It will be the 21st century when word processors recognize URLs and email addresses and say they're misspelt.",
   "id" : 207176956960186369,
-  "created_at" : "Mon May 28 18:30:10 +0000 2012",
+  "created_at" : "2012-05-28 18:30:10 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mitchell Smith",
@@ -444,14 +428,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "207145063833276416",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207145502003826688",
   "in_reply_to_user_id" : 496421916,
   "text" : "@mitchellfsmith I know! Hopefully it'll be a good movie. I think they're also making The Giver?",
   "id" : 207145502003826688,
   "in_reply_to_status_id" : 207145063833276416,
-  "created_at" : "Mon May 28 16:25:10 +0000 2012",
+  "created_at" : "2012-05-28 16:25:10 +0000",
   "in_reply_to_screen_name" : "mitchellfsmith",
   "in_reply_to_user_id_str" : "496421916",
   "user" : {
@@ -459,146 +442,141 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207143860562968576",
-  "text" : "Weird – Found a lyrics site that has the entire Ender's Game book.",
+  "text" : "Weird \u2013 Found a lyrics site that has the entire Ender's Game book.",
   "id" : 207143860562968576,
-  "created_at" : "Mon May 28 16:18:39 +0000 2012",
+  "created_at" : "2012-05-28 16:18:39 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 36, 56 ],
-      "url" : "http://t.co/rQmJsTYA",
-      "expanded_url" : "http://imgur.com/K7PBA",
-      "display_url" : "imgur.com/K7PBA"
+      "url" : "http:\/\/t.co\/rQmJsTYA",
+      "expanded_url" : "http:\/\/imgur.com\/K7PBA",
+      "display_url" : "imgur.com\/K7PBA"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "206499760205611008",
-  "text" : "Hi there! I'm your new best friend! http://t.co/rQmJsTYA",
+  "text" : "Hi there! I'm your new best friend! http:\/\/t.co\/rQmJsTYA",
   "id" : 206499760205611008,
-  "created_at" : "Sat May 26 21:39:14 +0000 2012",
+  "created_at" : "2012-05-26 21:39:14 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "206498522130948096",
-  "text" : "I hate naming pictures…",
+  "text" : "I hate naming pictures\u2026",
   "id" : 206498522130948096,
-  "created_at" : "Sat May 26 21:34:18 +0000 2012",
+  "created_at" : "2012-05-26 21:34:18 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 30, 50 ],
-      "url" : "http://t.co/0bVifO70",
-      "expanded_url" : "http://www.reddit.com/r/web_design/comments/u40c4/how_does_as_messy_a_concept_as_yahoo_axis_get_all/",
-      "display_url" : "reddit.com/r/web_design/c…"
+      "url" : "http:\/\/t.co\/0bVifO70",
+      "expanded_url" : "http:\/\/www.reddit.com\/r\/web_design\/comments\/u40c4\/how_does_as_messy_a_concept_as_yahoo_axis_get_all\/",
+      "display_url" : "reddit.com\/r\/web_design\/c\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "206015659052765184",
-  "text" : "Good points about Axis here - http://t.co/0bVifO70",
+  "text" : "Good points about Axis here - http:\/\/t.co\/0bVifO70",
   "id" : 206015659052765184,
-  "created_at" : "Fri May 25 13:35:35 +0000 2012",
+  "created_at" : "2012-05-25 13:35:35 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "206015145334407168",
-  "text" : "Oh wow. The Yahoo Axis videos are laughable. That guy in the intro video is totally an actor. Seriously, Yahoo? The 90's was 22 years ago…",
+  "text" : "Oh wow. The Yahoo Axis videos are laughable. That guy in the intro video is totally an actor. Seriously, Yahoo? The 90's was 22 years ago\u2026",
   "id" : 206015145334407168,
-  "created_at" : "Fri May 25 13:33:32 +0000 2012",
+  "created_at" : "2012-05-25 13:33:32 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 35, 55 ],
-      "url" : "http://t.co/njciuMfI",
-      "expanded_url" : "http://4sq.com/LhfdWC",
-      "display_url" : "4sq.com/LhfdWC"
+      "url" : "http:\/\/t.co\/njciuMfI",
+      "expanded_url" : "http:\/\/4sq.com\/LhfdWC",
+      "display_url" : "4sq.com\/LhfdWC"
     } ]
   },
   "geo" : {
@@ -606,30 +584,30 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 41.4401044614, 2.1987354755 ]
   },
   "id_str" : "205990506512130048",
-  "text" : "I'm at Ribs (Barcelona, Catalunya) http://t.co/njciuMfI",
+  "text" : "I'm at Ribs (Barcelona, Catalunya) http:\/\/t.co\/njciuMfI",
   "id" : 205990506512130048,
-  "created_at" : "Fri May 25 11:55:38 +0000 2012",
+  "created_at" : "2012-05-25 11:55:38 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.apple.com\" rel=\"nofollow\">Photos on iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EPhotos on iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http://twitter.com/TannerLD/status/205986110541807617/photo/1",
+      "expanded_url" : "http:\/\/twitter.com\/TannerLD\/status\/205986110541807617\/photo\/1",
       "indices" : [ 49, 69 ],
-      "url" : "http://t.co/8379woK2",
-      "media_url" : "http://pbs.twimg.com/media/AtvPRrPCQAAQOXj.jpg",
+      "url" : "http:\/\/t.co\/8379woK2",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/AtvPRrPCQAAQOXj.jpg",
       "id_str" : "205986110546001920",
       "id" : 205986110546001920,
-      "media_url_https" : "https://pbs.twimg.com/media/AtvPRrPCQAAQOXj.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AtvPRrPCQAAQOXj.jpg",
       "sizes" : [ {
         "h" : 150,
         "resize" : "crop",
@@ -651,7 +629,7 @@ Grailbird.data.tweets_2012_05 =
         "resize" : "fit",
         "w" : 600
       } ],
-      "display_url" : "pic.twitter.com/8379woK2"
+      "display_url" : "pic.twitter.com\/8379woK2"
     } ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -661,30 +639,30 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 41.439858, 2.198936 ]
   },
   "id_str" : "205986110541807617",
-  "text" : "Also includes jars of beer and big belt buckles. http://t.co/8379woK2",
+  "text" : "Also includes jars of beer and big belt buckles. http:\/\/t.co\/8379woK2",
   "id" : 205986110541807617,
-  "created_at" : "Fri May 25 11:38:11 +0000 2012",
+  "created_at" : "2012-05-25 11:38:11 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.apple.com\" rel=\"nofollow\">Camera on iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003ECamera on iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http://twitter.com/TannerLD/status/205985359333572609/photo/1",
+      "expanded_url" : "http:\/\/twitter.com\/TannerLD\/status\/205985359333572609\/photo\/1",
       "indices" : [ 46, 66 ],
-      "url" : "http://t.co/Pv8q3syQ",
-      "media_url" : "http://pbs.twimg.com/media/AtvOl8xCQAE49rl.jpg",
+      "url" : "http:\/\/t.co\/Pv8q3syQ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/AtvOl8xCQAE49rl.jpg",
       "id_str" : "205985359337766913",
       "id" : 205985359337766913,
-      "media_url_https" : "https://pbs.twimg.com/media/AtvOl8xCQAE49rl.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AtvOl8xCQAE49rl.jpg",
       "sizes" : [ {
         "h" : 450,
         "resize" : "fit",
@@ -706,7 +684,7 @@ Grailbird.data.tweets_2012_05 =
         "resize" : "fit",
         "w" : 816
       } ],
-      "display_url" : "pic.twitter.com/Pv8q3syQ"
+      "display_url" : "pic.twitter.com\/Pv8q3syQ"
     } ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -716,29 +694,29 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 41.439996, 2.199031 ]
   },
   "id_str" : "205985359333572609",
-  "text" : "I found America! Complete with country music. http://t.co/Pv8q3syQ",
+  "text" : "I found America! Complete with country music. http:\/\/t.co\/Pv8q3syQ",
   "id" : 205985359333572609,
-  "created_at" : "Fri May 25 11:35:12 +0000 2012",
+  "created_at" : "2012-05-25 11:35:12 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 31, 51 ],
-      "url" : "http://t.co/h5EHOI1o",
-      "expanded_url" : "http://4sq.com/JxwZlS",
-      "display_url" : "4sq.com/JxwZlS"
+      "url" : "http:\/\/t.co\/h5EHOI1o",
+      "expanded_url" : "http:\/\/4sq.com\/JxwZlS",
+      "display_url" : "4sq.com\/JxwZlS"
     } ]
   },
   "geo" : {
@@ -746,66 +724,64 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 41.4396580816, 2.1986335516 ]
   },
   "id_str" : "205978332397965313",
-  "text" : "I'm at Apple Store (Barcelona) http://t.co/h5EHOI1o",
+  "text" : "I'm at Apple Store (Barcelona) http:\/\/t.co\/h5EHOI1o",
   "id" : 205978332397965313,
-  "created_at" : "Fri May 25 11:07:15 +0000 2012",
+  "created_at" : "2012-05-25 11:07:15 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "205738345735782400",
   "text" : "Reflection.app has an annoying trial period. I don't feel like paying $15 only when I need it for 2 minutes of recording.",
   "id" : 205738345735782400,
-  "created_at" : "Thu May 24 19:13:38 +0000 2012",
+  "created_at" : "2012-05-24 19:13:38 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "205661788174422016",
   "text" : "Yahoo's Axis web browser is ok. Kind of awkward to use.",
   "id" : 205661788174422016,
-  "created_at" : "Thu May 24 14:09:25 +0000 2012",
+  "created_at" : "2012-05-24 14:09:25 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Doctor Who Online",
@@ -824,8 +800,7 @@ Grailbird.data.tweets_2012_05 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "205659522281373696",
   "text" : "RT @DrWhoOnline: #WhoWillRun - DAVID TENNANT! - Prove #DoctorWho can become reality! :)",
   "retweeted_status" : {
@@ -842,38 +817,37 @@ Grailbird.data.tweets_2012_05 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "205652236913737730",
     "text" : "#WhoWillRun - DAVID TENNANT! - Prove #DoctorWho can become reality! :)",
     "id" : 205652236913737730,
-    "created_at" : "Thu May 24 13:31:28 +0000 2012",
+    "created_at" : "2012-05-24 13:31:28 +0000",
     "user" : {
       "name" : "Doctor Who Online",
       "screen_name" : "DrWhoOnline",
       "protected" : false,
       "id_str" : "19583097",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2260603010/dwo-insignia-2012_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2260603010\/dwo-insignia-2012_normal.png",
       "id" : 19583097,
       "verified" : false
     }
   },
   "id" : 205659522281373696,
-  "created_at" : "Thu May 24 14:00:25 +0000 2012",
+  "created_at" : "2012-05-24 14:00:25 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doctor Who Official",
+      "name" : "Doctor Who Official ",
       "screen_name" : "bbcdoctorwho",
       "indices" : [ 3, 16 ],
       "id_str" : "237670274",
@@ -886,8 +860,7 @@ Grailbird.data.tweets_2012_05 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "205652724207992832",
   "text" : "RT @bbcdoctorwho: Exciting news!  Guess Who is carrying the Torch in Cardiff on Saturday? #whowillrun",
   "retweeted_status" : {
@@ -901,35 +874,34 @@ Grailbird.data.tweets_2012_05 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "205651752240947201",
     "text" : "Exciting news!  Guess Who is carrying the Torch in Cardiff on Saturday? #whowillrun",
     "id" : 205651752240947201,
-    "created_at" : "Thu May 24 13:29:33 +0000 2012",
+    "created_at" : "2012-05-24 13:29:33 +0000",
     "user" : {
-      "name" : "Doctor Who Official",
+      "name" : "Doctor Who Official ",
       "screen_name" : "bbcdoctorwho",
       "protected" : false,
       "id_str" : "237670274",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3077756561/a5129457662e074562d7fdc9251bfe78_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000677714346\/db6e0c957791dcfe363ecf4cff8ee865_normal.jpeg",
       "id" : 237670274,
       "verified" : true
     }
   },
   "id" : 205652724207992832,
-  "created_at" : "Thu May 24 13:33:24 +0000 2012",
+  "created_at" : "2012-05-24 13:33:24 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "The Verge",
@@ -942,57 +914,55 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 97, 117 ],
-      "url" : "http://t.co/YtrxbK79",
-      "expanded_url" : "http://bit.ly/JtfHGy",
-      "display_url" : "bit.ly/JtfHGy"
+      "url" : "http:\/\/t.co\/YtrxbK79",
+      "expanded_url" : "http:\/\/bit.ly\/JtfHGy",
+      "display_url" : "bit.ly\/JtfHGy"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "205620924391755777",
-  "text" : "RT @verge: President Obama orders federal agencies to optimize sites for smartphones and tablets http://t.co/YtrxbK79",
+  "text" : "RT @verge: President Obama orders federal agencies to optimize sites for smartphones and tablets http:\/\/t.co\/YtrxbK79",
   "retweeted_status" : {
-    "source" : "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 86, 106 ],
-        "url" : "http://t.co/YtrxbK79",
-        "expanded_url" : "http://bit.ly/JtfHGy",
-        "display_url" : "bit.ly/JtfHGy"
+        "url" : "http:\/\/t.co\/YtrxbK79",
+        "expanded_url" : "http:\/\/bit.ly\/JtfHGy",
+        "display_url" : "bit.ly\/JtfHGy"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "205607974922747904",
-    "text" : "President Obama orders federal agencies to optimize sites for smartphones and tablets http://t.co/YtrxbK79",
+    "text" : "President Obama orders federal agencies to optimize sites for smartphones and tablets http:\/\/t.co\/YtrxbK79",
     "id" : 205607974922747904,
-    "created_at" : "Thu May 24 10:35:35 +0000 2012",
+    "created_at" : "2012-05-24 10:35:35 +0000",
     "user" : {
       "name" : "The Verge",
       "screen_name" : "verge",
       "protected" : false,
       "id_str" : "275686563",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1450127603/TheVerge_Badge_Color1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1450127603\/TheVerge_Badge_Color1_normal.png",
       "id" : 275686563,
       "verified" : true
     }
   },
   "id" : 205620924391755777,
-  "created_at" : "Thu May 24 11:27:03 +0000 2012",
+  "created_at" : "2012-05-24 11:27:03 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stephen Fleming",
@@ -1005,47 +975,45 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "205051139190820865",
   "text" : "RT @StephenFleming: Am I the only one who hopes Apple leaves the iPhone screen size alone? Human hands haven't grown 15% since 2007. Why ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "205048520468725762",
     "text" : "Am I the only one who hopes Apple leaves the iPhone screen size alone? Human hands haven't grown 15% since 2007. Why should our phones?",
     "id" : 205048520468725762,
-    "created_at" : "Tue May 22 21:32:31 +0000 2012",
+    "created_at" : "2012-05-22 21:32:31 +0000",
     "user" : {
       "name" : "Stephen Fleming",
       "screen_name" : "StephenFleming",
       "protected" : false,
       "id_str" : "39933",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3252423754/6f8d4fa30621f7a414df95c48e33c227_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3303792630\/6bc75af0a8249ad7a6de83c9f4df87ee_normal.png",
       "id" : 39933,
       "verified" : false
     }
   },
   "id" : 205051139190820865,
-  "created_at" : "Tue May 22 21:42:55 +0000 2012",
+  "created_at" : "2012-05-22 21:42:55 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "KeyRocket",
@@ -1058,13 +1026,12 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "204901864611917824",
   "in_reply_to_user_id" : 358072047,
   "text" : "@KeyRocket Site doesn't allow zooming on iOS. Makes it hard to use.",
   "id" : 204901864611917824,
-  "created_at" : "Tue May 22 11:49:46 +0000 2012",
+  "created_at" : "2012-05-22 11:49:46 +0000",
   "in_reply_to_screen_name" : "KeyRocket",
   "in_reply_to_user_id_str" : "358072047",
   "user" : {
@@ -1072,15 +1039,15 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NASA Kennedy / KSC",
+      "name" : "NASA Kennedy \/ KSC",
       "screen_name" : "NASAKennedy",
       "indices" : [ 3, 15 ],
       "id_str" : "16580226",
@@ -1090,83 +1057,80 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 85, 105 ],
-      "url" : "http://t.co/PH0JF0GP",
-      "expanded_url" : "http://twitpic.com/9nx6mo",
-      "display_url" : "twitpic.com/9nx6mo"
+      "url" : "http:\/\/t.co\/PH0JF0GP",
+      "expanded_url" : "http:\/\/twitpic.com\/9nx6mo",
+      "display_url" : "twitpic.com\/9nx6mo"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "204854052503302144",
-  "text" : "RT @NASAKennedy: SpaceX Dragon is now in orbit after successful launch this morning. http://t.co/PH0JF0GP",
+  "text" : "RT @NASAKennedy: SpaceX\u00A0Dragon is now in orbit after successful\u00A0launch this morning.\u00A0http:\/\/t.co\/PH0JF0GP",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.exacttarget.com/social\" rel=\"nofollow\">SocialEngage</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 68, 88 ],
-        "url" : "http://t.co/PH0JF0GP",
-        "expanded_url" : "http://twitpic.com/9nx6mo",
-        "display_url" : "twitpic.com/9nx6mo"
+        "url" : "http:\/\/t.co\/PH0JF0GP",
+        "expanded_url" : "http:\/\/twitpic.com\/9nx6mo",
+        "display_url" : "twitpic.com\/9nx6mo"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "204844499736866816",
-    "text" : "SpaceX Dragon is now in orbit after successful launch this morning. http://t.co/PH0JF0GP",
+    "text" : "SpaceX\u00A0Dragon is now in orbit after successful\u00A0launch this morning.\u00A0http:\/\/t.co\/PH0JF0GP",
     "id" : 204844499736866816,
-    "created_at" : "Tue May 22 08:01:49 +0000 2012",
+    "created_at" : "2012-05-22 08:01:49 +0000",
     "user" : {
-      "name" : "NASA Kennedy / KSC",
+      "name" : "NASA Kennedy \/ KSC",
       "screen_name" : "NASAKennedy",
       "protected" : false,
       "id_str" : "16580226",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/212717731/launch_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/212717731\/launch_normal.jpg",
       "id" : 16580226,
       "verified" : true
     }
   },
   "id" : 204854052503302144,
-  "created_at" : "Tue May 22 08:39:46 +0000 2012",
+  "created_at" : "2012-05-22 08:39:46 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "204851466991697920",
   "text" : "iPad home button works... for now...",
   "id" : 204851466991697920,
-  "created_at" : "Tue May 22 08:29:30 +0000 2012",
+  "created_at" : "2012-05-22 08:29:30 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Skalnik",
+      "name" : "Mike Meat Skalnik",
       "screen_name" : "skalnik",
       "indices" : [ 0, 8 ],
       "id_str" : "15878923",
@@ -1177,14 +1141,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "204570309821599745",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "204616009770991617",
   "in_reply_to_user_id" : 15878923,
   "text" : "@skalnik I need to learns.",
   "id" : 204616009770991617,
   "in_reply_to_status_id" : 204570309821599745,
-  "created_at" : "Mon May 21 16:53:52 +0000 2012",
+  "created_at" : "2012-05-21 16:53:52 +0000",
   "in_reply_to_screen_name" : "skalnik",
   "in_reply_to_user_id_str" : "15878923",
   "user" : {
@@ -1192,12 +1155,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Programming Wisdom",
@@ -1210,70 +1173,67 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "204615655188742144",
   "text" : "RT @CodeWisdom: \"Make it work first before you make it work fast.\" - Bruce Whiteside",
   "retweeted_status" : {
-    "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "204590102146588674",
     "text" : "\"Make it work first before you make it work fast.\" - Bruce Whiteside",
     "id" : 204590102146588674,
-    "created_at" : "Mon May 21 15:10:56 +0000 2012",
+    "created_at" : "2012-05-21 15:10:56 +0000",
     "user" : {
       "name" : "Programming Wisdom",
       "screen_name" : "CodeWisdom",
       "protected" : false,
       "id_str" : "396238794",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1601751557/turing_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1601751557\/turing_normal.gif",
       "id" : 396238794,
       "verified" : false
     }
   },
   "id" : 204615655188742144,
-  "created_at" : "Mon May 21 16:52:28 +0000 2012",
+  "created_at" : "2012-05-21 16:52:28 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "204563483294040065",
   "text" : "Sad. iPad 2 home button has stopped working. :( Sad...",
   "id" : 204563483294040065,
-  "created_at" : "Mon May 21 13:25:09 +0000 2012",
+  "created_at" : "2012-05-21 13:25:09 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Claire So",
@@ -1289,15 +1249,14 @@ Grailbird.data.tweets_2012_05 =
     } ],
     "urls" : [ {
       "indices" : [ 37, 57 ],
-      "url" : "http://t.co/1y6Kx6fe",
-      "expanded_url" : "http://minimal.be/lab/portrait/",
-      "display_url" : "minimal.be/lab/portrait/"
+      "url" : "http:\/\/t.co\/1y6Kx6fe",
+      "expanded_url" : "http:\/\/minimal.be\/lab\/portrait\/",
+      "display_url" : "minimal.be\/lab\/portrait\/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "204190391027777538",
-  "text" : "RT @Claire_So: Self-portrait in css3 http://t.co/1y6Kx6fe #css3d",
+  "text" : "RT @Claire_So: Self-portrait in css3 http:\/\/t.co\/1y6Kx6fe #css3d",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -1309,40 +1268,39 @@ Grailbird.data.tweets_2012_05 =
       } ],
       "urls" : [ {
         "indices" : [ 22, 42 ],
-        "url" : "http://t.co/1y6Kx6fe",
-        "expanded_url" : "http://minimal.be/lab/portrait/",
-        "display_url" : "minimal.be/lab/portrait/"
+        "url" : "http:\/\/t.co\/1y6Kx6fe",
+        "expanded_url" : "http:\/\/minimal.be\/lab\/portrait\/",
+        "display_url" : "minimal.be\/lab\/portrait\/"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "204153117070204928",
-    "text" : "Self-portrait in css3 http://t.co/1y6Kx6fe #css3d",
+    "text" : "Self-portrait in css3 http:\/\/t.co\/1y6Kx6fe #css3d",
     "id" : 204153117070204928,
-    "created_at" : "Sun May 20 10:14:30 +0000 2012",
+    "created_at" : "2012-05-20 10:14:30 +0000",
     "user" : {
       "name" : "Claire So",
       "screen_name" : "Claire_So",
       "protected" : false,
       "id_str" : "131938141",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1797802208/twitter2_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000625760975\/783bf4410097a82059e3df79e88fa2e8_normal.png",
       "id" : 131938141,
       "verified" : false
     }
   },
   "id" : 204190391027777538,
-  "created_at" : "Sun May 20 12:42:37 +0000 2012",
+  "created_at" : "2012-05-20 12:42:37 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kelly Allen",
@@ -1356,14 +1314,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "203895839142330371",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "203896816712945664",
   "in_reply_to_user_id" : 28483578,
-  "text" : "@kgirll13 I don't know. Perhaps smaller/lighter and a new screen. Usually they cost around the same price.",
+  "text" : "@kgirll13 I don't know. Perhaps smaller\/lighter and a new screen. Usually they cost around the same price.",
   "id" : 203896816712945664,
   "in_reply_to_status_id" : 203895839142330371,
-  "created_at" : "Sat May 19 17:16:03 +0000 2012",
+  "created_at" : "2012-05-19 17:16:03 +0000",
   "in_reply_to_screen_name" : "kgirll13",
   "in_reply_to_user_id_str" : "28483578",
   "user" : {
@@ -1371,12 +1328,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kelly Allen",
@@ -1390,14 +1347,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "203886126962966528",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "203894575566290944",
   "in_reply_to_user_id" : 28483578,
   "text" : "@kgirll13 New models might be announced soon so I'd wait.",
   "id" : 203894575566290944,
   "in_reply_to_status_id" : 203886126962966528,
-  "created_at" : "Sat May 19 17:07:09 +0000 2012",
+  "created_at" : "2012-05-19 17:07:09 +0000",
   "in_reply_to_screen_name" : "kgirll13",
   "in_reply_to_user_id_str" : "28483578",
   "user" : {
@@ -1405,12 +1361,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Doctor Who Magazine",
@@ -1424,14 +1380,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "203818320460382208",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "203818588287676416",
   "in_reply_to_user_id" : 224589396,
   "text" : "@DWMtweets Is there anywhere to get DWM in Barcelona?",
   "id" : 203818588287676416,
   "in_reply_to_status_id" : 203818320460382208,
-  "created_at" : "Sat May 19 12:05:12 +0000 2012",
+  "created_at" : "2012-05-19 12:05:12 +0000",
   "in_reply_to_screen_name" : "DWMtweets",
   "in_reply_to_user_id_str" : "224589396",
   "user" : {
@@ -1439,35 +1394,34 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "203547129422163968",
   "text" : "\"cd -\" ftw",
   "id" : 203547129422163968,
-  "created_at" : "Fri May 18 18:06:32 +0000 2012",
+  "created_at" : "2012-05-18 18:06:32 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dalek Thay",
@@ -1480,8 +1434,7 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "203474404364140544",
   "text" : "RT @DalekThay: You may DIRECT all COMPLAINTS to the SHINY METAL ROD to my LEFT.",
   "retweeted_status" : {
@@ -1492,58 +1445,56 @@ Grailbird.data.tweets_2012_05 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "203469668424486913",
     "text" : "You may DIRECT all COMPLAINTS to the SHINY METAL ROD to my LEFT.",
     "id" : 203469668424486913,
-    "created_at" : "Fri May 18 12:58:43 +0000 2012",
+    "created_at" : "2012-05-18 12:58:43 +0000",
     "user" : {
       "name" : "Dalek Thay",
       "screen_name" : "DalekThay",
       "protected" : false,
       "id_str" : "272185609",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2793112741/f15984c7e65a28e7ea01785ec4833e05_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2793112741\/f15984c7e65a28e7ea01785ec4833e05_normal.jpeg",
       "id" : 272185609,
       "verified" : false
     }
   },
   "id" : 203474404364140544,
-  "created_at" : "Fri May 18 13:17:33 +0000 2012",
+  "created_at" : "2012-05-18 13:17:33 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "203257332430413825",
   "text" : "Something about Barcelona's power makes my iPad unhappy sometimes and reluctant to charge. :\\",
   "id" : 203257332430413825,
-  "created_at" : "Thu May 17 22:54:59 +0000 2012",
+  "created_at" : "2012-05-17 22:54:59 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ed Hunsinger",
@@ -1556,84 +1507,81 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "203250072857739265",
   "text" : "RT @edrabbit: Why is Facebook going public?\n\nThey couldn't figure out the privacy settings either.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "203234471279992833",
     "text" : "Why is Facebook going public?\n\nThey couldn't figure out the privacy settings either.",
     "id" : 203234471279992833,
-    "created_at" : "Thu May 17 21:24:08 +0000 2012",
+    "created_at" : "2012-05-17 21:24:08 +0000",
     "user" : {
       "name" : "Ed Hunsinger",
       "screen_name" : "edrabbit",
       "protected" : false,
       "id_str" : "1029211",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2877127940/d2db83b07df1b2e776fe0699573648a8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2877127940\/d2db83b07df1b2e776fe0699573648a8_normal.jpeg",
       "id" : 1029211,
       "verified" : false
     }
   },
   "id" : 203250072857739265,
-  "created_at" : "Thu May 17 22:26:08 +0000 2012",
+  "created_at" : "2012-05-17 22:26:08 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 12, 32 ],
-      "url" : "http://t.co/E0VYe8df",
-      "expanded_url" : "http://feedproxy.google.com/~r/InvisibleBread/~3/txiSdLdmE5Q/",
-      "display_url" : "feedproxy.google.com/~r/InvisibleBr…"
+      "url" : "http:\/\/t.co\/E0VYe8df",
+      "expanded_url" : "http:\/\/feedproxy.google.com\/~r\/InvisibleBread\/~3\/txiSdLdmE5Q\/",
+      "display_url" : "feedproxy.google.com\/~r\/InvisibleBr\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "203083238082744320",
-  "text" : "I want one. http://t.co/E0VYe8df",
+  "text" : "I want one. http:\/\/t.co\/E0VYe8df",
   "id" : 203083238082744320,
-  "created_at" : "Thu May 17 11:23:11 +0000 2012",
+  "created_at" : "2012-05-17 11:23:11 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/id329670577?mt=8&uo=4\" rel=\"nofollow\">Camera+​ on iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/id329670577?mt=8&uo=4\" rel=\"nofollow\"\u003ECamera+\u200B on iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 4, 24 ],
-      "url" : "http://t.co/qDvOXwkJ",
-      "expanded_url" : "http://campl.us/jvzW",
-      "display_url" : "campl.us/jvzW"
+      "url" : "http:\/\/t.co\/qDvOXwkJ",
+      "expanded_url" : "http:\/\/campl.us\/jvzW",
+      "display_url" : "campl.us\/jvzW"
     } ]
   },
   "geo" : {
@@ -1641,43 +1589,42 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 41.389302006, 2.1132450085 ]
   },
   "id_str" : "202758815765102592",
-  "text" : "Nom http://t.co/qDvOXwkJ",
+  "text" : "Nom http:\/\/t.co\/qDvOXwkJ",
   "id" : 202758815765102592,
-  "created_at" : "Wed May 16 13:54:03 +0000 2012",
+  "created_at" : "2012-05-16 13:54:03 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "202477262044536832",
   "text" : "Sad. The Design of Everyday Things is \"not available\" on Amazon for Kindle.",
   "id" : 202477262044536832,
-  "created_at" : "Tue May 15 19:15:15 +0000 2012",
+  "created_at" : "2012-05-15 19:15:15 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Daring Fireball",
@@ -1690,57 +1637,55 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 58, 78 ],
-      "url" : "http://t.co/jszap2HI",
-      "expanded_url" : "http://df4.us/jpr",
-      "display_url" : "df4.us/jpr"
+      "url" : "http:\/\/t.co\/jszap2HI",
+      "expanded_url" : "http:\/\/df4.us\/jpr",
+      "display_url" : "df4.us\/jpr"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "202106184688353280",
-  "text" : "RT @daringfireball: Gina Trapani on ‘Brogrammer’ Culture: http://t.co/jszap2HI",
+  "text" : "RT @daringfireball: Gina Trapani on \u2018Brogrammer\u2019 Culture: http:\/\/t.co\/jszap2HI",
   "retweeted_status" : {
-    "source" : "<a href=\"http://daringfireball.net/\" rel=\"nofollow\">DF Tootbot</a>",
+    "source" : "\u003Ca href=\"http:\/\/daringfireball.net\/\" rel=\"nofollow\"\u003EDF Tootbot\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 38, 58 ],
-        "url" : "http://t.co/jszap2HI",
-        "expanded_url" : "http://df4.us/jpr",
-        "display_url" : "df4.us/jpr"
+        "url" : "http:\/\/t.co\/jszap2HI",
+        "expanded_url" : "http:\/\/df4.us\/jpr",
+        "display_url" : "df4.us\/jpr"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "202079586106875905",
-    "text" : "Gina Trapani on ‘Brogrammer’ Culture: http://t.co/jszap2HI",
+    "text" : "Gina Trapani on \u2018Brogrammer\u2019 Culture: http:\/\/t.co\/jszap2HI",
     "id" : 202079586106875905,
-    "created_at" : "Mon May 14 16:55:02 +0000 2012",
+    "created_at" : "2012-05-14 16:55:02 +0000",
     "user" : {
       "name" : "Daring Fireball",
       "screen_name" : "daringfireball",
       "protected" : false,
       "id_str" : "10760422",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/425948730/DF-Star-Logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425948730\/DF-Star-Logo_normal.png",
       "id" : 10760422,
       "verified" : false
     }
   },
   "id" : 202106184688353280,
-  "created_at" : "Mon May 14 18:40:44 +0000 2012",
+  "created_at" : "2012-05-14 18:40:44 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Laughing Squid",
@@ -1753,103 +1698,99 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 53, 73 ],
-      "url" : "http://t.co/JkJXeKjC",
-      "expanded_url" : "http://dlvr.it/1YygFH",
-      "display_url" : "dlvr.it/1YygFH"
+      "url" : "http:\/\/t.co\/JkJXeKjC",
+      "expanded_url" : "http:\/\/dlvr.it\/1YygFH",
+      "display_url" : "dlvr.it\/1YygFH"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "202075774650560513",
-  "text" : "RT @LaughingSquid: The Ghostbusters Tour of New York http://t.co/JkJXeKjC",
+  "text" : "RT @LaughingSquid: The Ghostbusters Tour of New York http:\/\/t.co\/JkJXeKjC",
   "retweeted_status" : {
-    "source" : "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 34, 54 ],
-        "url" : "http://t.co/JkJXeKjC",
-        "expanded_url" : "http://dlvr.it/1YygFH",
-        "display_url" : "dlvr.it/1YygFH"
+        "url" : "http:\/\/t.co\/JkJXeKjC",
+        "expanded_url" : "http:\/\/dlvr.it\/1YygFH",
+        "display_url" : "dlvr.it\/1YygFH"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "202069773209710594",
-    "text" : "The Ghostbusters Tour of New York http://t.co/JkJXeKjC",
+    "text" : "The Ghostbusters Tour of New York http:\/\/t.co\/JkJXeKjC",
     "id" : 202069773209710594,
-    "created_at" : "Mon May 14 16:16:02 +0000 2012",
+    "created_at" : "2012-05-14 16:16:02 +0000",
     "user" : {
       "name" : "Laughing Squid",
       "screen_name" : "LaughingSquid",
       "protected" : false,
       "id_str" : "2172",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/340068086/laughing_squid_logo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/340068086\/laughing_squid_logo_normal.jpg",
       "id" : 2172,
       "verified" : true
     }
   },
   "id" : 202075774650560513,
-  "created_at" : "Mon May 14 16:39:53 +0000 2012",
+  "created_at" : "2012-05-14 16:39:53 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200708471346298880",
   "text" : "I'm on a jet plane. And I'm leaving.",
   "id" : 200708471346298880,
-  "created_at" : "Thu May 10 22:06:43 +0000 2012",
+  "created_at" : "2012-05-10 22:06:43 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200666848637890560",
   "text" : "\"Welcome to the Plane Train\"",
   "id" : 200666848637890560,
-  "created_at" : "Thu May 10 19:21:19 +0000 2012",
+  "created_at" : "2012-05-10 19:21:19 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kevin Hampton",
@@ -1863,14 +1804,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "200617356647612418",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200618558391201792",
   "in_reply_to_user_id" : 100587383,
   "text" : "@Kevin__Hampton Yep. Roy can't come though. :(",
   "id" : 200618558391201792,
   "in_reply_to_status_id" : 200617356647612418,
-  "created_at" : "Thu May 10 16:09:26 +0000 2012",
+  "created_at" : "2012-05-10 16:09:26 +0000",
   "in_reply_to_screen_name" : "Kevin__Hampton",
   "in_reply_to_user_id_str" : "100587383",
   "user" : {
@@ -1878,12 +1818,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gina Trapani",
@@ -1896,62 +1836,60 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 20, 40 ],
-      "url" : "http://t.co/2tNnUYsr",
-      "expanded_url" : "http://CNN.com",
+      "url" : "http:\/\/t.co\/2tNnUYsr",
+      "expanded_url" : "http:\/\/CNN.com",
       "display_url" : "CNN.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200615920266256386",
-  "text" : "RT @ginatrapani: My http://t.co/2tNnUYsr piece: How the \"brogrammer\" thing can be actually useful to women &amp; inclusive companies htt ...",
+  "text" : "RT @ginatrapani: My http:\/\/t.co\/2tNnUYsr piece: How the \"brogrammer\" thing can be actually useful to women &amp; inclusive companies htt ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 3, 23 ],
-        "url" : "http://t.co/2tNnUYsr",
-        "expanded_url" : "http://CNN.com",
+        "url" : "http:\/\/t.co\/2tNnUYsr",
+        "expanded_url" : "http:\/\/CNN.com",
         "display_url" : "CNN.com"
       }, {
         "indices" : [ 116, 136 ],
-        "url" : "http://t.co/PI74fKDl",
-        "expanded_url" : "http://bit.ly/JeSb1e",
-        "display_url" : "bit.ly/JeSb1e"
+        "url" : "http:\/\/t.co\/PI74fKDl",
+        "expanded_url" : "http:\/\/bit.ly\/JeSb1e",
+        "display_url" : "bit.ly\/JeSb1e"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "200614001338630144",
-    "text" : "My http://t.co/2tNnUYsr piece: How the \"brogrammer\" thing can be actually useful to women &amp; inclusive companies http://t.co/PI74fKDl",
+    "text" : "My http:\/\/t.co\/2tNnUYsr piece: How the \"brogrammer\" thing can be actually useful to women &amp; inclusive companies http:\/\/t.co\/PI74fKDl",
     "id" : 200614001338630144,
-    "created_at" : "Thu May 10 15:51:19 +0000 2012",
+    "created_at" : "2012-05-10 15:51:19 +0000",
     "user" : {
       "name" : "Gina Trapani",
       "screen_name" : "ginatrapani",
       "protected" : false,
       "id_str" : "930061",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2817622827/94e3afbe0e05bc9f88e6f1bed8d563ec_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000094875503\/88ec3120528d2e75172814a05cc19243_normal.png",
       "id" : 930061,
       "verified" : true
     }
   },
   "id" : 200615920266256386,
-  "created_at" : "Thu May 10 15:58:57 +0000 2012",
+  "created_at" : "2012-05-10 15:58:57 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brandon Dean",
@@ -1965,14 +1903,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "200600807341699072",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200613252747624452",
   "in_reply_to_user_id" : 14098524,
   "text" : "@brandondean Be a radical - Drink ice coffee without the straw.",
   "id" : 200613252747624452,
   "in_reply_to_status_id" : 200600807341699072,
-  "created_at" : "Thu May 10 15:48:21 +0000 2012",
+  "created_at" : "2012-05-10 15:48:21 +0000",
   "in_reply_to_screen_name" : "brandondean",
   "in_reply_to_user_id_str" : "14098524",
   "user" : {
@@ -1980,12 +1917,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brandon Dean",
@@ -1999,14 +1936,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "200600807341699072",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200613128285859840",
   "in_reply_to_user_id" : 14098524,
   "text" : "@brandondean And then have a burned tongue. :\\",
   "id" : 200613128285859840,
   "in_reply_to_status_id" : 200600807341699072,
-  "created_at" : "Thu May 10 15:47:51 +0000 2012",
+  "created_at" : "2012-05-10 15:47:51 +0000",
   "in_reply_to_screen_name" : "brandondean",
   "in_reply_to_user_id_str" : "14098524",
   "user" : {
@@ -2014,86 +1950,83 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 8, 28 ],
-      "url" : "http://t.co/exTiNv66",
-      "expanded_url" : "http://twitpic.com/9jhjx1",
-      "display_url" : "twitpic.com/9jhjx1"
+      "url" : "http:\/\/t.co\/exTiNv66",
+      "expanded_url" : "http:\/\/twitpic.com\/9jhjx1",
+      "display_url" : "twitpic.com\/9jhjx1"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200610461069225984",
-  "text" : "No Roy. http://t.co/exTiNv66",
+  "text" : "No Roy. http:\/\/t.co\/exTiNv66",
   "id" : 200610461069225984,
-  "created_at" : "Thu May 10 15:37:15 +0000 2012",
+  "created_at" : "2012-05-10 15:37:15 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200592838797434882",
   "text" : "\"HJAIA\" sounds like something you yell when you throw a punch, not somewhere you go to get on a plane.",
   "id" : 200592838797434882,
-  "created_at" : "Thu May 10 14:27:14 +0000 2012",
+  "created_at" : "2012-05-10 14:27:14 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200592318544359424",
   "text" : "The KATL website is very brown. Looks like someone spilt coffee on it. Egh.",
   "id" : 200592318544359424,
-  "created_at" : "Thu May 10 14:25:10 +0000 2012",
+  "created_at" : "2012-05-10 14:25:10 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stephen Fleming",
@@ -2107,14 +2040,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "200572481650692096",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200579298283880448",
   "in_reply_to_user_id" : 39933,
   "text" : "@StephenFleming Yep. Bikes would be better.",
   "id" : 200579298283880448,
   "in_reply_to_status_id" : 200572481650692096,
-  "created_at" : "Thu May 10 13:33:25 +0000 2012",
+  "created_at" : "2012-05-10 13:33:25 +0000",
   "in_reply_to_screen_name" : "StephenFleming",
   "in_reply_to_user_id_str" : "39933",
   "user" : {
@@ -2122,12 +2054,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Peter Legierski",
@@ -2136,31 +2068,55 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "243298797",
       "id" : 243298797
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/PeterLegierski\/status\/200577502601687040\/photo\/1",
       "indices" : [ 52, 72 ],
-      "url" : "http://t.co/42DeKf0D",
-      "expanded_url" : "http://twitter.com/PeterLegierski/status/200577502601687040/photo/1",
-      "display_url" : "pic.twitter.com/42DeKf0D"
-    } ]
+      "url" : "http:\/\/t.co\/42DeKf0D",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/AsiYLQiCMAMm1dH.png",
+      "id_str" : "200577502601687043",
+      "id" : 200577502601687043,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AsiYLQiCMAMm1dH.png",
+      "sizes" : [ {
+        "h" : 169,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 249,
+        "resize" : "fit",
+        "w" : 502
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 249,
+        "resize" : "fit",
+        "w" : 502
+      }, {
+        "h" : 249,
+        "resize" : "fit",
+        "w" : 502
+      } ],
+      "display_url" : "pic.twitter.com\/42DeKf0D"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200578936533565443",
-  "text" : "RT @PeterLegierski: A nice little touch to the icon http://t.co/42DeKf0D",
+  "text" : "RT @PeterLegierski: A nice little touch to the icon http:\/\/t.co\/42DeKf0D",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http://twitter.com/PeterLegierski/status/200577502601687040/photo/1",
+        "expanded_url" : "http:\/\/twitter.com\/PeterLegierski\/status\/200577502601687040\/photo\/1",
         "indices" : [ 32, 52 ],
-        "url" : "http://t.co/42DeKf0D",
-        "media_url" : "http://pbs.twimg.com/media/AsiYLQiCMAMm1dH.png",
+        "url" : "http:\/\/t.co\/42DeKf0D",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/AsiYLQiCMAMm1dH.png",
         "id_str" : "200577502601687043",
         "id" : 200577502601687043,
-        "media_url_https" : "https://pbs.twimg.com/media/AsiYLQiCMAMm1dH.png",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AsiYLQiCMAMm1dH.png",
         "sizes" : [ {
           "h" : 169,
           "resize" : "fit",
@@ -2182,40 +2138,39 @@ Grailbird.data.tweets_2012_05 =
           "resize" : "fit",
           "w" : 502
         } ],
-        "display_url" : "pic.twitter.com/42DeKf0D"
+        "display_url" : "pic.twitter.com\/42DeKf0D"
       } ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "200577502601687040",
-    "text" : "A nice little touch to the icon http://t.co/42DeKf0D",
+    "text" : "A nice little touch to the icon http:\/\/t.co\/42DeKf0D",
     "id" : 200577502601687040,
-    "created_at" : "Thu May 10 13:26:18 +0000 2012",
+    "created_at" : "2012-05-10 13:26:18 +0000",
     "user" : {
       "name" : "Peter Legierski",
       "screen_name" : "PeterLegierski",
       "protected" : false,
       "id_str" : "243298797",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2426539932/ax5c6r2yrxgg1dj1jfx7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2426539932\/ax5c6r2yrxgg1dj1jfx7_normal.jpeg",
       "id" : 243298797,
       "verified" : false
     }
   },
   "id" : 200578936533565443,
-  "created_at" : "Thu May 10 13:31:59 +0000 2012",
+  "created_at" : "2012-05-10 13:31:59 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stephen Fleming",
@@ -2229,14 +2184,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "200570697922248704",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200571289637888000",
   "in_reply_to_user_id" : 39933,
   "text" : "@StephenFleming Thought that wasn't open yet? Those things look silly in my opinion.",
   "id" : 200571289637888000,
   "in_reply_to_status_id" : 200570697922248704,
-  "created_at" : "Thu May 10 13:01:36 +0000 2012",
+  "created_at" : "2012-05-10 13:01:36 +0000",
   "in_reply_to_screen_name" : "StephenFleming",
   "in_reply_to_user_id_str" : "39933",
   "user" : {
@@ -2244,12 +2198,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "The Verge",
@@ -2262,57 +2216,55 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 81, 101 ],
-      "url" : "http://t.co/43rciEIT",
-      "expanded_url" : "http://bit.ly/K3Zk2P",
-      "display_url" : "bit.ly/K3Zk2P"
+      "url" : "http:\/\/t.co\/43rciEIT",
+      "expanded_url" : "http:\/\/bit.ly\/K3Zk2P",
+      "display_url" : "bit.ly\/K3Zk2P"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200566704697376769",
-  "text" : "RT @verge: Tesla releases revised Model S range stats: up to 350 miles at 55 mph http://t.co/43rciEIT",
+  "text" : "RT @verge: Tesla releases revised Model S range stats: up to 350 miles at 55 mph http:\/\/t.co\/43rciEIT",
   "retweeted_status" : {
-    "source" : "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 70, 90 ],
-        "url" : "http://t.co/43rciEIT",
-        "expanded_url" : "http://bit.ly/K3Zk2P",
-        "display_url" : "bit.ly/K3Zk2P"
+        "url" : "http:\/\/t.co\/43rciEIT",
+        "expanded_url" : "http:\/\/bit.ly\/K3Zk2P",
+        "display_url" : "bit.ly\/K3Zk2P"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "200421671402864640",
-    "text" : "Tesla releases revised Model S range stats: up to 350 miles at 55 mph http://t.co/43rciEIT",
+    "text" : "Tesla releases revised Model S range stats: up to 350 miles at 55 mph http:\/\/t.co\/43rciEIT",
     "id" : 200421671402864640,
-    "created_at" : "Thu May 10 03:07:04 +0000 2012",
+    "created_at" : "2012-05-10 03:07:04 +0000",
     "user" : {
       "name" : "The Verge",
       "screen_name" : "verge",
       "protected" : false,
       "id_str" : "275686563",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1450127603/TheVerge_Badge_Color1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1450127603\/TheVerge_Badge_Color1_normal.png",
       "id" : 275686563,
       "verified" : true
     }
   },
   "id" : 200566704697376769,
-  "created_at" : "Thu May 10 12:43:23 +0000 2012",
+  "created_at" : "2012-05-10 12:43:23 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ellen DeGeneres",
@@ -2331,28 +2283,27 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 65, 85 ],
-      "url" : "http://t.co/yoCN7zhD",
-      "expanded_url" : "http://www.youtube.com/watch?v=RSWBFFXnksc&feature=g-all-u",
-      "display_url" : "youtube.com/watch?v=RSWBFF…"
+      "url" : "http:\/\/t.co\/yoCN7zhD",
+      "expanded_url" : "http:\/\/www.youtube.com\/watch?v=RSWBFFXnksc&feature=g-all-u",
+      "display_url" : "youtube.com\/watch?v=RSWBFF\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200408428923977728",
-  "text" : ".@TheEllenShow is happy about @BarackObama's announcement today. http://t.co/yoCN7zhD",
+  "text" : ".@TheEllenShow is happy about @BarackObama's announcement today. http:\/\/t.co\/yoCN7zhD",
   "id" : 200408428923977728,
-  "created_at" : "Thu May 10 02:14:27 +0000 2012",
+  "created_at" : "2012-05-10 02:14:27 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ryan Ashcraft",
@@ -2366,14 +2317,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "200408078104010752",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200408220962009089",
   "in_reply_to_user_id" : 14193080,
   "text" : "@ryanashcraft Haha. Its really what you do, you're asking the OS nicely to perform the instructions. It may or may not do it. :P",
   "id" : 200408220962009089,
   "in_reply_to_status_id" : 200408078104010752,
-  "created_at" : "Thu May 10 02:13:37 +0000 2012",
+  "created_at" : "2012-05-10 02:13:37 +0000",
   "in_reply_to_screen_name" : "ryanashcraft",
   "in_reply_to_user_id_str" : "14193080",
   "user" : {
@@ -2381,12 +2331,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ryan Ashcraft",
@@ -2400,14 +2350,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "200405070238588930",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200406876813398016",
   "in_reply_to_user_id" : 14193080,
   "text" : "@ryanashcraft C? pronounced \"Cee Que\" with an inflection",
   "id" : 200406876813398016,
   "in_reply_to_status_id" : 200405070238588930,
-  "created_at" : "Thu May 10 02:08:17 +0000 2012",
+  "created_at" : "2012-05-10 02:08:17 +0000",
   "in_reply_to_screen_name" : "ryanashcraft",
   "in_reply_to_user_id_str" : "14193080",
   "user" : {
@@ -2415,58 +2364,56 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200402685080510464",
   "text" : "I feel like Discovery channel is what TLC used to be. Or something like that.",
   "id" : 200402685080510464,
-  "created_at" : "Thu May 10 01:51:38 +0000 2012",
+  "created_at" : "2012-05-10 01:51:38 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200395480352555008",
-  "text" : "Gaaah! Why do all the programming projects now-a-days have to have such strange names? I can't tell what these do from the names…",
+  "text" : "Gaaah! Why do all the programming projects now-a-days have to have such strange names? I can't tell what these do from the names\u2026",
   "id" : 200395480352555008,
-  "created_at" : "Thu May 10 01:23:00 +0000 2012",
+  "created_at" : "2012-05-10 01:23:00 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "GitHub",
@@ -2479,69 +2426,66 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200395101564977154",
   "text" : "Not sure if I like the new @github icons.",
   "id" : 200395101564977154,
-  "created_at" : "Thu May 10 01:21:30 +0000 2012",
+  "created_at" : "2012-05-10 01:21:30 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200392102373359616",
   "text" : "Sports seem too intense if people are constantly getting concussions. Don't ban it, but like be aware and play safely.",
   "id" : 200392102373359616,
-  "created_at" : "Thu May 10 01:09:34 +0000 2012",
+  "created_at" : "2012-05-10 01:09:34 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200390902848552960",
   "text" : "There's a new story about concussions in soccer. Specifically girls soccer. Never thought to look at soccer for concussions.",
   "id" : 200390902848552960,
-  "created_at" : "Thu May 10 01:04:48 +0000 2012",
+  "created_at" : "2012-05-10 01:04:48 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ryan Ashcraft",
@@ -2554,51 +2498,49 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200344106113826816",
   "text" : "Oooooh! Google+ gets a new iOS app! cc @ryanashcraft",
   "id" : 200344106113826816,
-  "created_at" : "Wed May 09 21:58:51 +0000 2012",
+  "created_at" : "2012-05-09 21:58:51 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 23, 43 ],
-      "url" : "http://t.co/vbjoN975",
-      "expanded_url" : "http://twitpic.com/9j8j7l",
-      "display_url" : "twitpic.com/9j8j7l"
+      "url" : "http:\/\/t.co\/vbjoN975",
+      "expanded_url" : "http:\/\/twitpic.com\/9j8j7l",
+      "display_url" : "twitpic.com\/9j8j7l"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200341468580298753",
-  "text" : "Roy still isn't happy. http://t.co/vbjoN975",
+  "text" : "Roy still isn't happy. http:\/\/t.co\/vbjoN975",
   "id" : 200341468580298753,
-  "created_at" : "Wed May 09 21:48:22 +0000 2012",
+  "created_at" : "2012-05-09 21:48:22 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Macgasm.net",
@@ -2611,66 +2553,64 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 47, 67 ],
-      "url" : "http://t.co/SPtPWMYm",
-      "expanded_url" : "http://bit.ly/JtGchh",
-      "display_url" : "bit.ly/JtGchh"
+      "url" : "http:\/\/t.co\/SPtPWMYm",
+      "expanded_url" : "http:\/\/bit.ly\/JtGchh",
+      "display_url" : "bit.ly\/JtGchh"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200321774129385472",
-  "text" : "RT @macgasm: This Is Why I Don’t Own A Printer http://t.co/SPtPWMYm",
+  "text" : "RT @macgasm: This Is Why I Don\u2019t Own A Printer http:\/\/t.co\/SPtPWMYm",
   "retweeted_status" : {
-    "source" : "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "source" : "\u003Ca href=\"http:\/\/ifttt.com\" rel=\"nofollow\"\u003EIFTTT\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 34, 54 ],
-        "url" : "http://t.co/SPtPWMYm",
-        "expanded_url" : "http://bit.ly/JtGchh",
-        "display_url" : "bit.ly/JtGchh"
+        "url" : "http:\/\/t.co\/SPtPWMYm",
+        "expanded_url" : "http:\/\/bit.ly\/JtGchh",
+        "display_url" : "bit.ly\/JtGchh"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "200320888560828417",
-    "text" : "This Is Why I Don’t Own A Printer http://t.co/SPtPWMYm",
+    "text" : "This Is Why I Don\u2019t Own A Printer http:\/\/t.co\/SPtPWMYm",
     "id" : 200320888560828417,
-    "created_at" : "Wed May 09 20:26:36 +0000 2012",
+    "created_at" : "2012-05-09 20:26:36 +0000",
     "user" : {
       "name" : "Macgasm.net",
       "screen_name" : "macgasm",
       "protected" : false,
       "id_str" : "13177182",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3175015039/e5d6a960d50ff4e2a7709ca4e9c54808_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3175015039\/e5d6a960d50ff4e2a7709ca4e9c54808_normal.jpeg",
       "id" : 13177182,
       "verified" : false
     }
   },
   "id" : 200321774129385472,
-  "created_at" : "Wed May 09 20:30:07 +0000 2012",
+  "created_at" : "2012-05-09 20:30:07 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/id329670577?mt=8&uo=4\" rel=\"nofollow\">Camera+​ on iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/id329670577?mt=8&uo=4\" rel=\"nofollow\"\u003ECamera+\u200B on iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 24, 44 ],
-      "url" : "http://t.co/4Wdu8KoB",
-      "expanded_url" : "http://campl.us/jmEt",
-      "display_url" : "campl.us/jmEt"
+      "url" : "http:\/\/t.co\/4Wdu8KoB",
+      "expanded_url" : "http:\/\/campl.us\/jmEt",
+      "display_url" : "campl.us\/jmEt"
     } ]
   },
   "geo" : {
@@ -2678,48 +2618,47 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 34.0125295474, -84.0767797642 ]
   },
   "id_str" : "200262956758478849",
-  "text" : "Having fun with Camera+ http://t.co/4Wdu8KoB",
+  "text" : "Having fun with Camera+ http:\/\/t.co\/4Wdu8KoB",
   "id" : 200262956758478849,
-  "created_at" : "Wed May 09 16:36:24 +0000 2012",
+  "created_at" : "2012-05-09 16:36:24 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 75, 95 ],
-      "url" : "http://t.co/mVWcl4PX",
-      "expanded_url" : "http://twitpic.com/9j5ppp",
-      "display_url" : "twitpic.com/9j5ppp"
+      "url" : "http:\/\/t.co\/mVWcl4PX",
+      "expanded_url" : "http:\/\/twitpic.com\/9j5ppp",
+      "display_url" : "twitpic.com\/9j5ppp"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200254378421129219",
-  "text" : "Roy found out he couldn't go to Barcelona. He wasn't too happy about that. http://t.co/mVWcl4PX",
+  "text" : "Roy found out he couldn't go to Barcelona. He wasn't too happy about that. http:\/\/t.co\/mVWcl4PX",
   "id" : 200254378421129219,
-  "created_at" : "Wed May 09 16:02:19 +0000 2012",
+  "created_at" : "2012-05-09 16:02:19 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Doc Pemberton",
@@ -2732,47 +2671,45 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200028518040600576",
   "text" : "RT @docpemberton: Great Scott! It's already the 126th anniversary of my invention: Coca-Cola! Happy birthday, Invention. You have brough ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "200025506916204544",
     "text" : "Great Scott! It's already the 126th anniversary of my invention: Coca-Cola! Happy birthday, Invention. You have brought me great happiness.",
     "id" : 200025506916204544,
-    "created_at" : "Wed May 09 00:52:51 +0000 2012",
+    "created_at" : "2012-05-09 00:52:51 +0000",
     "user" : {
       "name" : "Doc Pemberton",
       "screen_name" : "docpemberton",
       "protected" : false,
       "id_str" : "125790347",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2850015313/ec71ffe74055cfe8dd3e965f95ffd930_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2850015313\/ec71ffe74055cfe8dd3e965f95ffd930_normal.png",
       "id" : 125790347,
       "verified" : true
     }
   },
   "id" : 200028518040600576,
-  "created_at" : "Wed May 09 01:04:49 +0000 2012",
+  "created_at" : "2012-05-09 01:04:49 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ken Jennings",
@@ -2785,70 +2722,67 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200019917758664705",
   "text" : "RT @KenJennings: what is your favorite number of dimensions for a movie to be in mine is two",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "200014795972415489",
     "text" : "what is your favorite number of dimensions for a movie to be in mine is two",
     "id" : 200014795972415489,
-    "created_at" : "Wed May 09 00:10:18 +0000 2012",
+    "created_at" : "2012-05-09 00:10:18 +0000",
     "user" : {
       "name" : "Ken Jennings",
       "screen_name" : "KenJennings",
       "protected" : false,
       "id_str" : "234270825",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2935927173/ea2e34fcecb920adaf3ed61a1d5999ca_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000572252560\/ee7ddee9a78e2a7cae2238232394ad10_normal.jpeg",
       "id" : 234270825,
       "verified" : false
     }
   },
   "id" : 200019917758664705,
-  "created_at" : "Wed May 09 00:30:39 +0000 2012",
+  "created_at" : "2012-05-09 00:30:39 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "199991787966824448",
   "text" : "Is the ability to create an email alert new for Google search results?",
   "id" : 199991787966824448,
-  "created_at" : "Tue May 08 22:38:52 +0000 2012",
+  "created_at" : "2012-05-08 22:38:52 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kevin Hampton",
@@ -2867,20 +2801,19 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 83, 103 ],
-      "url" : "http://t.co/rydlpTLj",
-      "expanded_url" : "http://imgur.com/hUYGL",
-      "display_url" : "imgur.com/hUYGL"
+      "url" : "http:\/\/t.co\/rydlpTLj",
+      "expanded_url" : "http:\/\/imgur.com\/hUYGL",
+      "display_url" : "imgur.com\/hUYGL"
     } ]
   },
   "in_reply_to_status_id_str" : "199354678214012929",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "199684451578548225",
   "in_reply_to_user_id" : 100587383,
-  "text" : "@Kevin__Hampton @ryanashcraft Haha. I still like this one better. Professor Lupin? http://t.co/rydlpTLj",
+  "text" : "@Kevin__Hampton @ryanashcraft Haha. I still like this one better. Professor Lupin? http:\/\/t.co\/rydlpTLj",
   "id" : 199684451578548225,
   "in_reply_to_status_id" : 199354678214012929,
-  "created_at" : "Tue May 08 02:17:37 +0000 2012",
+  "created_at" : "2012-05-08 02:17:37 +0000",
   "in_reply_to_screen_name" : "Kevin__Hampton",
   "in_reply_to_user_id_str" : "100587383",
   "user" : {
@@ -2888,35 +2821,34 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "199677675126784002",
   "text" : "Why do we have stores that sell just cell phones? For some reason, that seems kinda silly.",
   "id" : 199677675126784002,
-  "created_at" : "Tue May 08 01:50:42 +0000 2012",
+  "created_at" : "2012-05-08 01:50:42 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Gemmell",
@@ -2929,60 +2861,58 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 114, 134 ],
-      "url" : "http://t.co/BdU0Sgyo",
-      "expanded_url" : "http://img.ly/hYbB",
-      "display_url" : "img.ly/hYbB"
+      "url" : "http:\/\/t.co\/BdU0Sgyo",
+      "expanded_url" : "http:\/\/img.ly\/hYbB",
+      "display_url" : "img.ly\/hYbB"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "199609289663451136",
-  "text" : "RT @mattgemmell: Photoshop CS6 subscription vs purchase: UK rough costs over the years. Subs cheaper til year 5.  http://t.co/BdU0Sgyo",
+  "text" : "RT @mattgemmell: Photoshop CS6 subscription vs purchase: UK rough costs over the years. Subs cheaper til year 5.  http:\/\/t.co\/BdU0Sgyo",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 97, 117 ],
-        "url" : "http://t.co/BdU0Sgyo",
-        "expanded_url" : "http://img.ly/hYbB",
-        "display_url" : "img.ly/hYbB"
+        "url" : "http:\/\/t.co\/BdU0Sgyo",
+        "expanded_url" : "http:\/\/img.ly\/hYbB",
+        "display_url" : "img.ly\/hYbB"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "199600197985243136",
-    "text" : "Photoshop CS6 subscription vs purchase: UK rough costs over the years. Subs cheaper til year 5.  http://t.co/BdU0Sgyo",
+    "text" : "Photoshop CS6 subscription vs purchase: UK rough costs over the years. Subs cheaper til year 5.  http:\/\/t.co\/BdU0Sgyo",
     "id" : 199600197985243136,
-    "created_at" : "Mon May 07 20:42:50 +0000 2012",
+    "created_at" : "2012-05-07 20:42:50 +0000",
     "user" : {
       "name" : "Matt Gemmell",
       "screen_name" : "mattgemmell",
       "protected" : false,
       "id_str" : "755859",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1683442179/gemmell_contemplative2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000553182110\/a86e9e6cbbcde598777d6b0451a4acf1_normal.jpeg",
       "id" : 755859,
       "verified" : false
     }
   },
   "id" : 199609289663451136,
-  "created_at" : "Mon May 07 21:18:57 +0000 2012",
+  "created_at" : "2012-05-07 21:18:57 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dark Sky",
+      "name" : "The Dark Sky Company",
       "screen_name" : "DarkSkyApp",
       "indices" : [ 1, 12 ],
       "id_str" : "397455346",
@@ -2992,61 +2922,59 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 42, 62 ],
-      "url" : "http://t.co/R0DNjFnK",
-      "expanded_url" : "http://twitpic.com/9iitbx",
-      "display_url" : "twitpic.com/9iitbx"
+      "url" : "http:\/\/t.co\/R0DNjFnK",
+      "expanded_url" : "http:\/\/twitpic.com\/9iitbx",
+      "display_url" : "twitpic.com\/9iitbx"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "199575461817356288",
-  "text" : ".@DarkSkyApp is a really cool iPhone app. http://t.co/R0DNjFnK",
+  "text" : ".@DarkSkyApp is a really cool iPhone app. http:\/\/t.co\/R0DNjFnK",
   "id" : 199575461817356288,
-  "created_at" : "Mon May 07 19:04:32 +0000 2012",
+  "created_at" : "2012-05-07 19:04:32 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 55, 75 ],
-      "url" : "http://t.co/7UKM2HJC",
-      "expanded_url" : "http://mobile.Twitter.com",
+      "url" : "http:\/\/t.co\/7UKM2HJC",
+      "expanded_url" : "http:\/\/mobile.Twitter.com",
       "display_url" : "mobile.Twitter.com"
     }, {
       "indices" : [ 87, 107 ],
-      "url" : "http://t.co/R6PyjekL",
-      "expanded_url" : "http://mobile.twitter.com",
+      "url" : "http:\/\/t.co\/R6PyjekL",
+      "expanded_url" : "http:\/\/mobile.twitter.com",
       "display_url" : "mobile.twitter.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "199565661175951360",
-  "text" : "I find it funny Twitter writes out their mobile URL as http://t.co/7UKM2HJC instead of http://t.co/R6PyjekL",
+  "text" : "I find it funny Twitter writes out their mobile URL as http:\/\/t.co\/7UKM2HJC instead of http:\/\/t.co\/R6PyjekL",
   "id" : 199565661175951360,
-  "created_at" : "Mon May 07 18:25:36 +0000 2012",
+  "created_at" : "2012-05-07 18:25:36 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jeff Atwood",
@@ -3060,14 +2988,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "199561406406868993",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "199563111508869122",
   "in_reply_to_user_id" : 5637652,
   "text" : "@codinghorror It is very lame. I would a least like to be able to download my tweets in a CSV file or something *once* so I can archive.",
   "id" : 199563111508869122,
   "in_reply_to_status_id" : 199561406406868993,
-  "created_at" : "Mon May 07 18:15:28 +0000 2012",
+  "created_at" : "2012-05-07 18:15:28 +0000",
   "in_reply_to_screen_name" : "codinghorror",
   "in_reply_to_user_id_str" : "5637652",
   "user" : {
@@ -3075,15 +3002,15 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Old Ragey McSchnell",
+      "name" : "Ragey McSchnell",
       "screen_name" : "joshuaschnell",
       "indices" : [ 3, 17 ],
       "id_str" : "14775425",
@@ -3093,15 +3020,14 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 61, 81 ],
-      "url" : "http://t.co/zeItGkfE",
-      "expanded_url" : "http://mcgsm.co/Jro6tJ",
-      "display_url" : "mcgsm.co/Jro6tJ"
+      "url" : "http:\/\/t.co\/zeItGkfE",
+      "expanded_url" : "http:\/\/mcgsm.co\/Jro6tJ",
+      "display_url" : "mcgsm.co\/Jro6tJ"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "199522541495255042",
-  "text" : "RT @joshuaschnell: Woah, Evernote has purchased Penultimate: http://t.co/zeItGkfE",
+  "text" : "RT @joshuaschnell: Woah, Evernote has purchased Penultimate: http:\/\/t.co\/zeItGkfE",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -3110,86 +3036,83 @@ Grailbird.data.tweets_2012_05 =
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 42, 62 ],
-        "url" : "http://t.co/zeItGkfE",
-        "expanded_url" : "http://mcgsm.co/Jro6tJ",
-        "display_url" : "mcgsm.co/Jro6tJ"
+        "url" : "http:\/\/t.co\/zeItGkfE",
+        "expanded_url" : "http:\/\/mcgsm.co\/Jro6tJ",
+        "display_url" : "mcgsm.co\/Jro6tJ"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "199518770270711808",
-    "text" : "Woah, Evernote has purchased Penultimate: http://t.co/zeItGkfE",
+    "text" : "Woah, Evernote has purchased Penultimate: http:\/\/t.co\/zeItGkfE",
     "id" : 199518770270711808,
-    "created_at" : "Mon May 07 15:19:16 +0000 2012",
+    "created_at" : "2012-05-07 15:19:16 +0000",
     "user" : {
-      "name" : "Old Ragey McSchnell",
+      "name" : "Ragey McSchnell",
       "screen_name" : "joshuaschnell",
       "protected" : false,
       "id_str" : "14775425",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2479647708/3tk7f03g1k4u80gzroqb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3545699711\/144c409b269a1429962a9556a625d2c0_normal.jpeg",
       "id" : 14775425,
       "verified" : false
     }
   },
   "id" : 199522541495255042,
-  "created_at" : "Mon May 07 15:34:15 +0000 2012",
+  "created_at" : "2012-05-07 15:34:15 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "199246456207577088",
   "text" : "CSS is acting strange today. Must've been a rough party.",
   "id" : 199246456207577088,
-  "created_at" : "Sun May 06 21:17:11 +0000 2012",
+  "created_at" : "2012-05-06 21:17:11 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "199233411183951872",
   "text" : "I don't understand these IE9 commercials with some sort of techno music in them.",
   "id" : 199233411183951872,
-  "created_at" : "Sun May 06 20:25:21 +0000 2012",
+  "created_at" : "2012-05-06 20:25:21 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Trey Ratcliff",
@@ -3208,15 +3131,14 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 64, 84 ],
-      "url" : "http://t.co/HqASv1yn",
-      "expanded_url" : "http://www.flatbooks.com/",
+      "url" : "http:\/\/t.co\/HqASv1yn",
+      "expanded_url" : "http:\/\/www.flatbooks.com\/",
       "display_url" : "flatbooks.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "199183656957390848",
-  "text" : "RT @TreyRatcliff: A new eBook!  All about histograms and more!  http://t.co/HqASv1yn from  @varina_patel",
+  "text" : "RT @TreyRatcliff: A new eBook!  All about histograms and more!  http:\/\/t.co\/HqASv1yn from  @varina_patel",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -3231,63 +3153,61 @@ Grailbird.data.tweets_2012_05 =
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 46, 66 ],
-        "url" : "http://t.co/HqASv1yn",
-        "expanded_url" : "http://www.flatbooks.com/",
+        "url" : "http:\/\/t.co\/HqASv1yn",
+        "expanded_url" : "http:\/\/www.flatbooks.com\/",
         "display_url" : "flatbooks.com"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "199182476969639936",
-    "text" : "A new eBook!  All about histograms and more!  http://t.co/HqASv1yn from  @varina_patel",
+    "text" : "A new eBook!  All about histograms and more!  http:\/\/t.co\/HqASv1yn from  @varina_patel",
     "id" : 199182476969639936,
-    "created_at" : "Sun May 06 17:02:57 +0000 2012",
+    "created_at" : "2012-05-06 17:02:57 +0000",
     "user" : {
       "name" : "Trey Ratcliff",
       "screen_name" : "TreyRatcliff",
       "protected" : false,
       "id_str" : "1026321",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2639058592/2815857bc0c780ba5cea240a6db28ee0_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3741195725\/2d1fbac09aa8651f294e1830860aa2f2_normal.jpeg",
       "id" : 1026321,
       "verified" : false
     }
   },
   "id" : 199183656957390848,
-  "created_at" : "Sun May 06 17:07:39 +0000 2012",
+  "created_at" : "2012-05-06 17:07:39 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "199183579606036481",
   "text" : "Ahh! I found a neat JS library a few days ago and now I can't find it! And I didn't bookmark it! *insert Jerry Seinfeld*",
   "id" : 199183579606036481,
-  "created_at" : "Sun May 06 17:07:20 +0000 2012",
+  "created_at" : "2012-05-06 17:07:20 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "GitHub",
@@ -3300,23 +3220,22 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "199176418272362496",
   "text" : "I watch too many repositories on @github. Most of them are there cause I want to \"bookmark\" them for later. :\\",
   "id" : 199176418272362496,
-  "created_at" : "Sun May 06 16:38:53 +0000 2012",
+  "created_at" : "2012-05-06 16:38:53 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kyle Van Essen",
@@ -3329,57 +3248,55 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 55, 75 ],
-      "url" : "http://t.co/kZXQcOya",
-      "expanded_url" : "http://en.wikipedia.org/wiki/List_of_U.S._state_tartans",
-      "display_url" : "en.wikipedia.org/wiki/List_of_U…"
+      "url" : "http:\/\/t.co\/kZXQcOya",
+      "expanded_url" : "http:\/\/en.wikipedia.org\/wiki\/List_of_U.S._state_tartans",
+      "display_url" : "en.wikipedia.org\/wiki\/List_of_U\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "199129388430798848",
-  "text" : "RT @kyleve: TIL most US states have an official plaid: http://t.co/kZXQcOya",
+  "text" : "RT @kyleve: TIL most US states have an official plaid: http:\/\/t.co\/kZXQcOya",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 43, 63 ],
-        "url" : "http://t.co/kZXQcOya",
-        "expanded_url" : "http://en.wikipedia.org/wiki/List_of_U.S._state_tartans",
-        "display_url" : "en.wikipedia.org/wiki/List_of_U…"
+        "url" : "http:\/\/t.co\/kZXQcOya",
+        "expanded_url" : "http:\/\/en.wikipedia.org\/wiki\/List_of_U.S._state_tartans",
+        "display_url" : "en.wikipedia.org\/wiki\/List_of_U\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "199005783009136641",
-    "text" : "TIL most US states have an official plaid: http://t.co/kZXQcOya",
+    "text" : "TIL most US states have an official plaid: http:\/\/t.co\/kZXQcOya",
     "id" : 199005783009136641,
-    "created_at" : "Sun May 06 05:20:50 +0000 2012",
+    "created_at" : "2012-05-06 05:20:50 +0000",
     "user" : {
       "name" : "Kyle Van Essen",
       "screen_name" : "kyleve",
       "protected" : false,
       "id_str" : "14680556",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2407213572/qswy7kx5qs9g4ee9pu1a_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000062101907\/c9572e73a2991cc8ddfd837c1f0f0bf2_normal.jpeg",
       "id" : 14680556,
       "verified" : false
     }
   },
   "id" : 199129388430798848,
-  "created_at" : "Sun May 06 13:32:00 +0000 2012",
+  "created_at" : "2012-05-06 13:32:00 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jared Smith",
@@ -3392,80 +3309,77 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 57, 77 ],
-      "url" : "http://t.co/vdeVovq5",
-      "expanded_url" : "http://twitpic.com/9hultg",
-      "display_url" : "twitpic.com/9hultg"
+      "url" : "http:\/\/t.co\/vdeVovq5",
+      "expanded_url" : "http:\/\/twitpic.com\/9hultg",
+      "display_url" : "twitpic.com\/9hultg"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198962654054854656",
-  "text" : "RT @jaredwsmith: Taken a few minutes ago in West Ashley: http://t.co/vdeVovq5",
+  "text" : "RT @jaredwsmith: Taken a few minutes ago in West Ashley: http:\/\/t.co\/vdeVovq5",
   "retweeted_status" : {
-    "source" : "<a href=\"http://sites.google.com/site/yorufukurou/\" rel=\"nofollow\">YoruFukurou</a>",
+    "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 40, 60 ],
-        "url" : "http://t.co/vdeVovq5",
-        "expanded_url" : "http://twitpic.com/9hultg",
-        "display_url" : "twitpic.com/9hultg"
+        "url" : "http:\/\/t.co\/vdeVovq5",
+        "expanded_url" : "http:\/\/twitpic.com\/9hultg",
+        "display_url" : "twitpic.com\/9hultg"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "198958445733486592",
-    "text" : "Taken a few minutes ago in West Ashley: http://t.co/vdeVovq5",
+    "text" : "Taken a few minutes ago in West Ashley: http:\/\/t.co\/vdeVovq5",
     "id" : 198958445733486592,
-    "created_at" : "Sun May 06 02:12:44 +0000 2012",
+    "created_at" : "2012-05-06 02:12:44 +0000",
     "user" : {
       "name" : "Jared Smith",
       "screen_name" : "jaredwsmith",
       "protected" : false,
       "id_str" : "9225852",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3204402378/486924562a0204fb48add854ce83838e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3761493335\/8acebf04dfd1fccdf5bc8f9ac57db98b_normal.png",
       "id" : 9225852,
       "verified" : false
     }
   },
   "id" : 198962654054854656,
-  "created_at" : "Sun May 06 02:29:27 +0000 2012",
+  "created_at" : "2012-05-06 02:29:27 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198833790737592321",
   "text" : "Anyone know a good solution to nicely organize the billion cords I have for traveling? I looked at Grid-It!, but it doesn't seem fit.",
   "id" : 198833790737592321,
-  "created_at" : "Sat May 05 17:57:24 +0000 2012",
+  "created_at" : "2012-05-05 17:57:24 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Daniel Hooper",
@@ -3478,18 +3392,17 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 15, 35 ],
-      "url" : "http://t.co/eHAGKu0g",
-      "expanded_url" : "http://www.theverge.com/2012/5/4/2998696/daniel-hooper-ipad-keyboard-prototype",
-      "display_url" : "theverge.com/2012/5/4/29986…"
+      "url" : "http:\/\/t.co\/eHAGKu0g",
+      "expanded_url" : "http:\/\/www.theverge.com\/2012\/5\/4\/2998696\/daniel-hooper-ipad-keyboard-prototype",
+      "display_url" : "theverge.com\/2012\/5\/4\/29986\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198428303315578882",
   "in_reply_to_user_id" : 391077248,
-  "text" : "@danielchooper http://t.co/eHAGKu0g",
+  "text" : "@danielchooper http:\/\/t.co\/eHAGKu0g",
   "id" : 198428303315578882,
-  "created_at" : "Fri May 04 15:06:08 +0000 2012",
+  "created_at" : "2012-05-04 15:06:08 +0000",
   "in_reply_to_screen_name" : "danielchooper",
   "in_reply_to_user_id_str" : "391077248",
   "user" : {
@@ -3497,15 +3410,15 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RSC SW",
+      "name" : "Jisc RSC South West",
       "screen_name" : "RSCSouthWest",
       "indices" : [ 0, 13 ],
       "id_str" : "169032362",
@@ -3516,14 +3429,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "198384794369929218",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198425103179067392",
   "in_reply_to_user_id" : 169032362,
   "text" : "@RSCSouthWest Oh hai Spam. Bye Spam.",
   "id" : 198425103179067392,
   "in_reply_to_status_id" : 198384794369929218,
-  "created_at" : "Fri May 04 14:53:25 +0000 2012",
+  "created_at" : "2012-05-04 14:53:25 +0000",
   "in_reply_to_screen_name" : "RSCSouthWest",
   "in_reply_to_user_id_str" : "169032362",
   "user" : {
@@ -3531,12 +3443,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kurt Nelson",
@@ -3550,14 +3462,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "198274822634082304",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198420506767138816",
   "in_reply_to_user_id" : 722873,
   "text" : "@kurtisnelson Can't think of a situation like that but I guess that exists.",
   "id" : 198420506767138816,
   "in_reply_to_status_id" : 198274822634082304,
-  "created_at" : "Fri May 04 14:35:09 +0000 2012",
+  "created_at" : "2012-05-04 14:35:09 +0000",
   "in_reply_to_screen_name" : "kurtisnelson",
   "in_reply_to_user_id_str" : "722873",
   "user" : {
@@ -3565,12 +3476,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Computer Science ",
@@ -3589,17 +3500,16 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 84, 104 ],
-      "url" : "http://t.co/sPOFX9rH",
-      "expanded_url" : "http://j.mp/HTw9T4",
-      "display_url" : "j.mp/HTw9T4"
+      "url" : "http:\/\/t.co\/sPOFX9rH",
+      "expanded_url" : "http:\/\/j.mp\/HTw9T4",
+      "display_url" : "j.mp\/HTw9T4"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198398565641498624",
-  "text" : "RT @CompSciFact: RT @ORMSFact: Simulation of different airplane boarding strategies http://t.co/sPOFX9rH",
+  "text" : "RT @CompSciFact: RT @ORMSFact: Simulation of different airplane boarding strategies http:\/\/t.co\/sPOFX9rH",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Operations Research ",
@@ -3612,109 +3522,105 @@ Grailbird.data.tweets_2012_05 =
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 67, 87 ],
-        "url" : "http://t.co/sPOFX9rH",
-        "expanded_url" : "http://j.mp/HTw9T4",
-        "display_url" : "j.mp/HTw9T4"
+        "url" : "http:\/\/t.co\/sPOFX9rH",
+        "expanded_url" : "http:\/\/j.mp\/HTw9T4",
+        "display_url" : "j.mp\/HTw9T4"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "198396616321941504",
-    "text" : "RT @ORMSFact: Simulation of different airplane boarding strategies http://t.co/sPOFX9rH",
+    "text" : "RT @ORMSFact: Simulation of different airplane boarding strategies http:\/\/t.co\/sPOFX9rH",
     "id" : 198396616321941504,
-    "created_at" : "Fri May 04 13:00:14 +0000 2012",
+    "created_at" : "2012-05-04 13:00:14 +0000",
     "user" : {
       "name" : "Computer Science ",
       "screen_name" : "CompSciFact",
       "protected" : false,
       "id_str" : "220145170",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1178298385/CompSci_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1178298385\/CompSci_normal.png",
       "id" : 220145170,
       "verified" : false
     }
   },
   "id" : 198398565641498624,
-  "created_at" : "Fri May 04 13:07:58 +0000 2012",
+  "created_at" : "2012-05-04 13:07:58 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198259809420722177",
   "text" : "Never mind about out of date. Apparently you can mix Object e C and Ruby. What?",
   "id" : 198259809420722177,
-  "created_at" : "Fri May 04 03:56:36 +0000 2012",
+  "created_at" : "2012-05-04 03:56:36 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198259114047049728",
   "text" : "I also have no idea how they're doing this \"interactive development\". That seems weird.",
   "id" : 198259114047049728,
-  "created_at" : "Fri May 04 03:53:50 +0000 2012",
+  "created_at" : "2012-05-04 03:53:50 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198259025626931200",
   "text" : "RubyMotion is interesting but I don't quite understand why you'd want to use Ruby. It'll be behind in updates and it's expensive.",
   "id" : 198259025626931200,
-  "created_at" : "Fri May 04 03:53:29 +0000 2012",
+  "created_at" : "2012-05-04 03:53:29 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kelly Allen",
@@ -3728,14 +3634,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "198192912272596992",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198206199248863232",
   "in_reply_to_user_id" : 28483578,
   "text" : "@kgirll13 Oh noes! I got hit by a ball that rolled off a few days ago. I've also seen several pencils fall.",
   "id" : 198206199248863232,
   "in_reply_to_status_id" : 198192912272596992,
-  "created_at" : "Fri May 04 00:23:35 +0000 2012",
+  "created_at" : "2012-05-04 00:23:35 +0000",
   "in_reply_to_screen_name" : "kgirll13",
   "in_reply_to_user_id_str" : "28483578",
   "user" : {
@@ -3743,12 +3648,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "GT Clough Commons",
@@ -3761,28 +3666,27 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 86, 106 ],
-      "url" : "http://t.co/yAJSIb7w",
-      "expanded_url" : "http://twitpic.com/9guxu1",
-      "display_url" : "twitpic.com/9guxu1"
+      "url" : "http:\/\/t.co\/yAJSIb7w",
+      "expanded_url" : "http:\/\/twitpic.com\/9guxu1",
+      "display_url" : "twitpic.com\/9guxu1"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198122047027675136",
-  "text" : "These cracks have been the cause of many downstairs surprises. No me gusta. @GTClough http://t.co/yAJSIb7w",
+  "text" : "These cracks have been the cause of many downstairs surprises. No me gusta. @GTClough http:\/\/t.co\/yAJSIb7w",
   "id" : 198122047027675136,
-  "created_at" : "Thu May 03 18:49:11 +0000 2012",
+  "created_at" : "2012-05-03 18:49:11 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Laughing Squid",
@@ -3795,57 +3699,55 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 63, 83 ],
-      "url" : "http://t.co/eJiSYRjC",
-      "expanded_url" : "http://dlvr.it/1WT8ch",
-      "display_url" : "dlvr.it/1WT8ch"
+      "url" : "http:\/\/t.co\/eJiSYRjC",
+      "expanded_url" : "http:\/\/dlvr.it\/1WT8ch",
+      "display_url" : "dlvr.it\/1WT8ch"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198117582107185152",
-  "text" : "RT @LaughingSquid: TEA.Tanic, A Sinking Titanic Tea Bag Holder http://t.co/eJiSYRjC",
+  "text" : "RT @LaughingSquid: TEA.Tanic, A Sinking Titanic Tea Bag Holder http:\/\/t.co\/eJiSYRjC",
   "retweeted_status" : {
-    "source" : "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 44, 64 ],
-        "url" : "http://t.co/eJiSYRjC",
-        "expanded_url" : "http://dlvr.it/1WT8ch",
-        "display_url" : "dlvr.it/1WT8ch"
+        "url" : "http:\/\/t.co\/eJiSYRjC",
+        "expanded_url" : "http:\/\/dlvr.it\/1WT8ch",
+        "display_url" : "dlvr.it\/1WT8ch"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "198116217855283200",
-    "text" : "TEA.Tanic, A Sinking Titanic Tea Bag Holder http://t.co/eJiSYRjC",
+    "text" : "TEA.Tanic, A Sinking Titanic Tea Bag Holder http:\/\/t.co\/eJiSYRjC",
     "id" : 198116217855283200,
-    "created_at" : "Thu May 03 18:26:01 +0000 2012",
+    "created_at" : "2012-05-03 18:26:01 +0000",
     "user" : {
       "name" : "Laughing Squid",
       "screen_name" : "LaughingSquid",
       "protected" : false,
       "id_str" : "2172",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/340068086/laughing_squid_logo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/340068086\/laughing_squid_logo_normal.jpg",
       "id" : 2172,
       "verified" : true
     }
   },
   "id" : 198117582107185152,
-  "created_at" : "Thu May 03 18:31:27 +0000 2012",
+  "created_at" : "2012-05-03 18:31:27 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ryan Fork",
@@ -3859,14 +3761,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "198079444517261313",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198079646787584000",
   "in_reply_to_user_id" : 20408846,
   "text" : "@ryanfork AI",
   "id" : 198079646787584000,
   "in_reply_to_status_id" : 198079444517261313,
-  "created_at" : "Thu May 03 16:00:42 +0000 2012",
+  "created_at" : "2012-05-03 16:00:42 +0000",
   "in_reply_to_screen_name" : "ryanfork",
   "in_reply_to_user_id_str" : "20408846",
   "user" : {
@@ -3874,12 +3775,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "The Verge",
@@ -3892,52 +3793,50 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 97, 117 ],
-      "url" : "http://t.co/X8kKvMft",
-      "expanded_url" : "http://www.theverge.com/2012/5/3/2996448/ishac-bertran-tangible-file-transfer-concept",
-      "display_url" : "theverge.com/2012/5/3/29964…"
+      "url" : "http:\/\/t.co\/X8kKvMft",
+      "expanded_url" : "http:\/\/www.theverge.com\/2012\/5\/3\/2996448\/ishac-bertran-tangible-file-transfer-concept",
+      "display_url" : "theverge.com\/2012\/5\/3\/29964\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198078731456217091",
-  "text" : "RT @verge: 'Tangible' transfer concept would let you swipe files directly from MacBook to iPhone http://t.co/X8kKvMft",
+  "text" : "RT @verge: 'Tangible' transfer concept would let you swipe files directly from MacBook to iPhone http:\/\/t.co\/X8kKvMft",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 86, 106 ],
-        "url" : "http://t.co/X8kKvMft",
-        "expanded_url" : "http://www.theverge.com/2012/5/3/2996448/ishac-bertran-tangible-file-transfer-concept",
-        "display_url" : "theverge.com/2012/5/3/29964…"
+        "url" : "http:\/\/t.co\/X8kKvMft",
+        "expanded_url" : "http:\/\/www.theverge.com\/2012\/5\/3\/2996448\/ishac-bertran-tangible-file-transfer-concept",
+        "display_url" : "theverge.com\/2012\/5\/3\/29964\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "198076954203783168",
-    "text" : "'Tangible' transfer concept would let you swipe files directly from MacBook to iPhone http://t.co/X8kKvMft",
+    "text" : "'Tangible' transfer concept would let you swipe files directly from MacBook to iPhone http:\/\/t.co\/X8kKvMft",
     "id" : 198076954203783168,
-    "created_at" : "Thu May 03 15:50:00 +0000 2012",
+    "created_at" : "2012-05-03 15:50:00 +0000",
     "user" : {
       "name" : "The Verge",
       "screen_name" : "verge",
       "protected" : false,
       "id_str" : "275686563",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1450127603/TheVerge_Badge_Color1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1450127603\/TheVerge_Badge_Color1_normal.png",
       "id" : 275686563,
       "verified" : true
     }
   },
   "id" : 198078731456217091,
-  "created_at" : "Thu May 03 15:57:04 +0000 2012",
+  "created_at" : "2012-05-03 15:57:04 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
@@ -3955,57 +3854,55 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 90, 110 ],
-      "url" : "http://t.co/A5xx6izC",
-      "expanded_url" : "http://dlvr.it/1WRGq6",
-      "display_url" : "dlvr.it/1WRGq6"
+      "url" : "http:\/\/t.co\/A5xx6izC",
+      "expanded_url" : "http:\/\/dlvr.it\/1WRGq6",
+      "display_url" : "dlvr.it\/1WRGq6"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198071923090010113",
-  "text" : "RT @LaughingSquid: Lion Tries To Eat Baby Through the Glass at the Oregon Zoo in Portland http://t.co/A5xx6izC",
+  "text" : "RT @LaughingSquid: Lion Tries To Eat Baby Through the Glass at the Oregon Zoo in Portland http:\/\/t.co\/A5xx6izC",
   "retweeted_status" : {
-    "source" : "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 71, 91 ],
-        "url" : "http://t.co/A5xx6izC",
-        "expanded_url" : "http://dlvr.it/1WRGq6",
-        "display_url" : "dlvr.it/1WRGq6"
+        "url" : "http:\/\/t.co\/A5xx6izC",
+        "expanded_url" : "http:\/\/dlvr.it\/1WRGq6",
+        "display_url" : "dlvr.it\/1WRGq6"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "198070166884593664",
-    "text" : "Lion Tries To Eat Baby Through the Glass at the Oregon Zoo in Portland http://t.co/A5xx6izC",
+    "text" : "Lion Tries To Eat Baby Through the Glass at the Oregon Zoo in Portland http:\/\/t.co\/A5xx6izC",
     "id" : 198070166884593664,
-    "created_at" : "Thu May 03 15:23:02 +0000 2012",
+    "created_at" : "2012-05-03 15:23:02 +0000",
     "user" : {
       "name" : "Laughing Squid",
       "screen_name" : "LaughingSquid",
       "protected" : false,
       "id_str" : "2172",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/340068086/laughing_squid_logo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/340068086\/laughing_squid_logo_normal.jpg",
       "id" : 2172,
       "verified" : true
     }
   },
   "id" : 198071923090010113,
-  "created_at" : "Thu May 03 15:30:01 +0000 2012",
+  "created_at" : "2012-05-03 15:30:01 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Gemmell",
@@ -4021,17 +3918,16 @@ Grailbird.data.tweets_2012_05 =
     } ],
     "urls" : [ {
       "indices" : [ 95, 115 ],
-      "url" : "http://t.co/sCC0r8fK",
-      "expanded_url" : "http://www.theatlantic.com/technology/print/2012/05/how-the-blind-are-reinventing-the-iphone/256589/",
-      "display_url" : "theatlantic.com/technology/pri…"
+      "url" : "http:\/\/t.co\/sCC0r8fK",
+      "expanded_url" : "http:\/\/www.theatlantic.com\/technology\/print\/2012\/05\/how-the-blind-are-reinventing-the-iphone\/256589\/",
+      "display_url" : "theatlantic.com\/technology\/pri\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "198024524980158465",
-  "text" : "RT @mattgemmell: This is how transformative and empowering an iPhone can be to a blind person: http://t.co/sCC0r8fK #accessibility",
+  "text" : "RT @mattgemmell: This is how transformative and empowering an iPhone can be to a blind person: http:\/\/t.co\/sCC0r8fK #accessibility",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4041,40 +3937,39 @@ Grailbird.data.tweets_2012_05 =
       } ],
       "urls" : [ {
         "indices" : [ 78, 98 ],
-        "url" : "http://t.co/sCC0r8fK",
-        "expanded_url" : "http://www.theatlantic.com/technology/print/2012/05/how-the-blind-are-reinventing-the-iphone/256589/",
-        "display_url" : "theatlantic.com/technology/pri…"
+        "url" : "http:\/\/t.co\/sCC0r8fK",
+        "expanded_url" : "http:\/\/www.theatlantic.com\/technology\/print\/2012\/05\/how-the-blind-are-reinventing-the-iphone\/256589\/",
+        "display_url" : "theatlantic.com\/technology\/pri\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "197982877667966976",
-    "text" : "This is how transformative and empowering an iPhone can be to a blind person: http://t.co/sCC0r8fK #accessibility",
+    "text" : "This is how transformative and empowering an iPhone can be to a blind person: http:\/\/t.co\/sCC0r8fK #accessibility",
     "id" : 197982877667966976,
-    "created_at" : "Thu May 03 09:36:11 +0000 2012",
+    "created_at" : "2012-05-03 09:36:11 +0000",
     "user" : {
       "name" : "Matt Gemmell",
       "screen_name" : "mattgemmell",
       "protected" : false,
       "id_str" : "755859",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1683442179/gemmell_contemplative2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000553182110\/a86e9e6cbbcde598777d6b0451a4acf1_normal.jpeg",
       "id" : 755859,
       "verified" : false
     }
   },
   "id" : 198024524980158465,
-  "created_at" : "Thu May 03 12:21:40 +0000 2012",
+  "created_at" : "2012-05-03 12:21:40 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Polygon",
@@ -4087,15 +3982,14 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 47, 67 ],
-      "url" : "http://t.co/yrsPGyFZ",
-      "expanded_url" : "http://www.theverge.com/gaming/2012/5/2/2995299/ea-rock-band-ios",
-      "display_url" : "theverge.com/gaming/2012/5/…"
+      "url" : "http:\/\/t.co\/yrsPGyFZ",
+      "expanded_url" : "http:\/\/www.theverge.com\/gaming\/2012\/5\/2\/2995299\/ea-rock-band-ios",
+      "display_url" : "theverge.com\/gaming\/2012\/5\/\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197878872774164480",
-  "text" : "RT @Polygon: EA is not killing Rock Band iOS - http://t.co/yrsPGyFZ",
+  "text" : "RT @Polygon: EA is not killing Rock Band iOS - http:\/\/t.co\/yrsPGyFZ",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -4104,114 +3998,110 @@ Grailbird.data.tweets_2012_05 =
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 34, 54 ],
-        "url" : "http://t.co/yrsPGyFZ",
-        "expanded_url" : "http://www.theverge.com/gaming/2012/5/2/2995299/ea-rock-band-ios",
-        "display_url" : "theverge.com/gaming/2012/5/…"
+        "url" : "http:\/\/t.co\/yrsPGyFZ",
+        "expanded_url" : "http:\/\/www.theverge.com\/gaming\/2012\/5\/2\/2995299\/ea-rock-band-ios",
+        "display_url" : "theverge.com\/gaming\/2012\/5\/\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "197855401276997632",
-    "text" : "EA is not killing Rock Band iOS - http://t.co/yrsPGyFZ",
+    "text" : "EA is not killing Rock Band iOS - http:\/\/t.co\/yrsPGyFZ",
     "id" : 197855401276997632,
-    "created_at" : "Thu May 03 01:09:38 +0000 2012",
+    "created_at" : "2012-05-03 01:09:38 +0000",
     "user" : {
       "name" : "Polygon",
       "screen_name" : "Polygon",
       "protected" : false,
       "id_str" : "454340464",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2785670422/b0f08dd3b999bd0debb5352a058707aa_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2785670422\/b0f08dd3b999bd0debb5352a058707aa_normal.png",
       "id" : 454340464,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 197878872774164480,
-  "created_at" : "Thu May 03 02:42:54 +0000 2012",
+  "created_at" : "2012-05-03 02:42:54 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197874709835161600",
   "text" : "These girls sitting next to me in the CULC are very mean. Keeh.",
   "id" : 197874709835161600,
-  "created_at" : "Thu May 03 02:26:21 +0000 2012",
+  "created_at" : "2012-05-03 02:26:21 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197863682905088000",
   "text" : "Warning the Banana Chocolate Chip Coffee Cake at Starbucks is not as good is it sounds.",
   "id" : 197863682905088000,
-  "created_at" : "Thu May 03 01:42:32 +0000 2012",
+  "created_at" : "2012-05-03 01:42:32 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 6, 26 ],
-      "url" : "http://t.co/JuzvXk4l",
-      "expanded_url" : "http://eres.library.gatech.edu.prx.library.gatech.edu",
-      "display_url" : "…ary.gatech.edu.prx.library.gatech.edu"
+      "url" : "http:\/\/t.co\/JuzvXk4l",
+      "expanded_url" : "http:\/\/eres.library.gatech.edu.prx.library.gatech.edu",
+      "display_url" : "\u2026ary.gatech.edu.prx.library.gatech.edu"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197844889680097280",
-  "text" : "What… http://t.co/JuzvXk4l",
+  "text" : "What\u2026 http:\/\/t.co\/JuzvXk4l",
   "id" : 197844889680097280,
-  "created_at" : "Thu May 03 00:27:52 +0000 2012",
+  "created_at" : "2012-05-03 00:27:52 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4219,14 +4109,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "197837155454812163",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197838402392035328",
   "in_reply_to_user_id" : 20012866,
   "text" : "@NinaChegg Done. Thanks for looking into this! :)",
   "id" : 197838402392035328,
   "in_reply_to_status_id" : 197837155454812163,
-  "created_at" : "Thu May 03 00:02:05 +0000 2012",
+  "created_at" : "2012-05-03 00:02:05 +0000",
   "in_reply_to_screen_name" : "CheggHelp",
   "in_reply_to_user_id_str" : "20012866",
   "user" : {
@@ -4234,12 +4123,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4247,14 +4136,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "197836802151817216",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197837025322336256",
   "in_reply_to_user_id" : 20012866,
   "text" : "@NinaChegg I'm current. Only four questions show up in the drop down for any chapter. ::",
   "id" : 197837025322336256,
   "in_reply_to_status_id" : 197836802151817216,
-  "created_at" : "Wed May 02 23:56:37 +0000 2012",
+  "created_at" : "2012-05-02 23:56:37 +0000",
   "in_reply_to_screen_name" : "CheggHelp",
   "in_reply_to_user_id_str" : "20012866",
   "user" : {
@@ -4262,35 +4150,34 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197835915241078785",
   "text" : "I'm disappointed Chegg. You promise me all the answers and all I get are 4 answers per chapter. 4 answers!",
   "id" : 197835915241078785,
-  "created_at" : "Wed May 02 23:52:12 +0000 2012",
+  "created_at" : "2012-05-02 23:52:12 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "CRC at Georgia Tech",
@@ -4303,13 +4190,12 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197825231275044865",
   "in_reply_to_user_id" : 292988335,
   "text" : "@CRCatGT More golfers at the Burger Bowl.",
   "id" : 197825231275044865,
-  "created_at" : "Wed May 02 23:09:45 +0000 2012",
+  "created_at" : "2012-05-02 23:09:45 +0000",
   "in_reply_to_screen_name" : "CRCatGT",
   "in_reply_to_user_id_str" : "292988335",
   "user" : {
@@ -4317,12 +4203,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gina Trapani",
@@ -4353,17 +4239,16 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 110, 130 ],
-      "url" : "http://t.co/R4Z6GGcK",
-      "expanded_url" : "http://bit.ly/Krai0I",
-      "display_url" : "bit.ly/Krai0I"
+      "url" : "http:\/\/t.co\/R4Z6GGcK",
+      "expanded_url" : "http:\/\/bit.ly\/Krai0I",
+      "display_url" : "bit.ly\/Krai0I"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197809714770358273",
-  "text" : "RT @ginatrapani: Some free consulting for @popchips &amp; @aplusk from @anildash, who should be charging them http://t.co/R4Z6GGcK",
+  "text" : "RT @ginatrapani: Some free consulting for @popchips &amp; @aplusk from @anildash, who should be charging them http:\/\/t.co\/R4Z6GGcK",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "popchips",
@@ -4388,40 +4273,39 @@ Grailbird.data.tweets_2012_05 =
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 93, 113 ],
-        "url" : "http://t.co/R4Z6GGcK",
-        "expanded_url" : "http://bit.ly/Krai0I",
-        "display_url" : "bit.ly/Krai0I"
+        "url" : "http:\/\/t.co\/R4Z6GGcK",
+        "expanded_url" : "http:\/\/bit.ly\/Krai0I",
+        "display_url" : "bit.ly\/Krai0I"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "197806311948288001",
-    "text" : "Some free consulting for @popchips &amp; @aplusk from @anildash, who should be charging them http://t.co/R4Z6GGcK",
+    "text" : "Some free consulting for @popchips &amp; @aplusk from @anildash, who should be charging them http:\/\/t.co\/R4Z6GGcK",
     "id" : 197806311948288001,
-    "created_at" : "Wed May 02 21:54:34 +0000 2012",
+    "created_at" : "2012-05-02 21:54:34 +0000",
     "user" : {
       "name" : "Gina Trapani",
       "screen_name" : "ginatrapani",
       "protected" : false,
       "id_str" : "930061",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2817622827/94e3afbe0e05bc9f88e6f1bed8d563ec_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000094875503\/88ec3120528d2e75172814a05cc19243_normal.png",
       "id" : 930061,
       "verified" : true
     }
   },
   "id" : 197809714770358273,
-  "created_at" : "Wed May 02 22:08:05 +0000 2012",
+  "created_at" : "2012-05-02 22:08:05 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Daniel Hooper",
@@ -4435,14 +4319,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "197769533677780993",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197773465057640450",
   "in_reply_to_user_id" : 391077248,
   "text" : "@danielchooper Interesting idea. I like everything but the use of the shift key.",
   "id" : 197773465057640450,
   "in_reply_to_status_id" : 197769533677780993,
-  "created_at" : "Wed May 02 19:44:03 +0000 2012",
+  "created_at" : "2012-05-02 19:44:03 +0000",
   "in_reply_to_screen_name" : "danielchooper",
   "in_reply_to_user_id_str" : "391077248",
   "user" : {
@@ -4450,35 +4333,34 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197740150023913472",
   "text" : "You can view PowerPoint in Preview! Sweet. Never knew that. Neat-o!",
   "id" : 197740150023913472,
-  "created_at" : "Wed May 02 17:31:40 +0000 2012",
+  "created_at" : "2012-05-02 17:31:40 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Smith",
@@ -4498,14 +4380,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "197719727685107713",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197721641978040322",
   "in_reply_to_user_id" : 14910247,
   "text" : "@mattstech @evcon Isn't it more like Twitter's iPad app? Though I'm not sure what feature of ICS you're talking about.",
   "id" : 197721641978040322,
   "in_reply_to_status_id" : 197719727685107713,
-  "created_at" : "Wed May 02 16:18:07 +0000 2012",
+  "created_at" : "2012-05-02 16:18:07 +0000",
   "in_reply_to_screen_name" : "mattstech",
   "in_reply_to_user_id_str" : "14910247",
   "user" : {
@@ -4513,12 +4394,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Visual Idiot",
@@ -4531,126 +4412,121 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 117, 137 ],
-      "url" : "http://t.co/wF3qkQcx",
-      "expanded_url" : "http://d.pr/i/NlHL",
-      "display_url" : "d.pr/i/NlHL"
+      "url" : "http:\/\/t.co\/wF3qkQcx",
+      "expanded_url" : "http:\/\/d.pr\/i\/NlHL",
+      "display_url" : "d.pr\/i\/NlHL"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197692970512822273",
-  "text" : "RT @idiot: In a perfect world, social share buttons would be the same size, and look half decent next to each other. http://t.co/wF3qkQcx",
+  "text" : "RT @idiot: In a perfect world, social share buttons would be the same size, and look half decent next to each other. http:\/\/t.co\/wF3qkQcx",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 106, 126 ],
-        "url" : "http://t.co/wF3qkQcx",
-        "expanded_url" : "http://d.pr/i/NlHL",
-        "display_url" : "d.pr/i/NlHL"
+        "url" : "http:\/\/t.co\/wF3qkQcx",
+        "expanded_url" : "http:\/\/d.pr\/i\/NlHL",
+        "display_url" : "d.pr\/i\/NlHL"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "197691067720679425",
-    "text" : "In a perfect world, social share buttons would be the same size, and look half decent next to each other. http://t.co/wF3qkQcx",
+    "text" : "In a perfect world, social share buttons would be the same size, and look half decent next to each other. http:\/\/t.co\/wF3qkQcx",
     "id" : 197691067720679425,
-    "created_at" : "Wed May 02 14:16:38 +0000 2012",
+    "created_at" : "2012-05-02 14:16:38 +0000",
     "user" : {
       "name" : "Visual Idiot",
       "screen_name" : "idiot",
       "protected" : false,
       "id_str" : "202571491",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3142558755/e51759991f9e27f050fa6e96da5ff36e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000566928302\/c1a0dc3f9294a31330235def7898e0cf_normal.png",
       "id" : 202571491,
       "verified" : false
     }
   },
   "id" : 197692970512822273,
-  "created_at" : "Wed May 02 14:24:11 +0000 2012",
+  "created_at" : "2012-05-02 14:24:11 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197692905090064384",
   "text" : "I feel like Facebook ads are insulting my intelligence.",
   "id" : 197692905090064384,
-  "created_at" : "Wed May 02 14:23:56 +0000 2012",
+  "created_at" : "2012-05-02 14:23:56 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197687764714663938",
   "text" : "And run up the stairs loudly. I liked it better when they took control of the elevators.",
   "id" : 197687764714663938,
-  "created_at" : "Wed May 02 14:03:30 +0000 2012",
+  "created_at" : "2012-05-02 14:03:30 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197687433427562497",
   "text" : "Finals week - Also known as the time when middle schools get to tour the CULC.",
   "id" : 197687433427562497,
-  "created_at" : "Wed May 02 14:02:11 +0000 2012",
+  "created_at" : "2012-05-02 14:02:11 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Macgasm.net",
@@ -4664,14 +4540,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "197682257211817987",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197686573834305536",
   "in_reply_to_user_id" : 13177182,
   "text" : "@macgasm The menu bar icon is a bit odd placed to the right of Spotlight.",
   "id" : 197686573834305536,
   "in_reply_to_status_id" : 197682257211817987,
-  "created_at" : "Wed May 02 13:58:46 +0000 2012",
+  "created_at" : "2012-05-02 13:58:46 +0000",
   "in_reply_to_screen_name" : "macgasm",
   "in_reply_to_user_id_str" : "13177182",
   "user" : {
@@ -4679,58 +4554,56 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197684977620631553",
   "text" : "I don't get why Draw Something's undo function only lets you undo the last action. I don't draw in one swift movement. More like 50.",
   "id" : 197684977620631553,
-  "created_at" : "Wed May 02 13:52:26 +0000 2012",
+  "created_at" : "2012-05-02 13:52:26 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197672439138885632",
   "text" : "Nice thing about 8:00 AM finals. You have the rest of the day afterwards.",
   "id" : 197672439138885632,
-  "created_at" : "Wed May 02 13:02:36 +0000 2012",
+  "created_at" : "2012-05-02 13:02:36 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Scott",
@@ -4744,14 +4617,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "197640993695219713",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197641387825577984",
   "in_reply_to_user_id" : 234088880,
   "text" : "@TryforBabby They screw up the whole get up at 7AM and ease into the day thing.",
   "id" : 197641387825577984,
   "in_reply_to_status_id" : 197640993695219713,
-  "created_at" : "Wed May 02 10:59:13 +0000 2012",
+  "created_at" : "2012-05-02 10:59:13 +0000",
   "in_reply_to_screen_name" : "TryforBabby",
   "in_reply_to_user_id_str" : "234088880",
   "user" : {
@@ -4759,12 +4631,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Karen Kavett",
@@ -4783,15 +4655,14 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 112, 132 ],
-      "url" : "http://t.co/pMsmfxXZ",
-      "expanded_url" : "http://karenkavett.tumblr.com/post/22175543358/i-loved-charlieissocoollikes-recent-video-dont",
-      "display_url" : "karenkavett.tumblr.com/post/221755433…"
+      "url" : "http:\/\/t.co\/pMsmfxXZ",
+      "expanded_url" : "http:\/\/karenkavett.tumblr.com\/post\/22175543358\/i-loved-charlieissocoollikes-recent-video-dont",
+      "display_url" : "karenkavett.tumblr.com\/post\/221755433\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197640516253401088",
-  "text" : "RT @karenkavett: Check out the Don't Break the Chain calendar I designed, inspired by @coollike's recent video: http://t.co/pMsmfxXZ",
+  "text" : "RT @karenkavett: Check out the Don't Break the Chain calendar I designed, inspired by @coollike's recent video: http:\/\/t.co\/pMsmfxXZ",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -4806,40 +4677,39 @@ Grailbird.data.tweets_2012_05 =
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 95, 115 ],
-        "url" : "http://t.co/pMsmfxXZ",
-        "expanded_url" : "http://karenkavett.tumblr.com/post/22175543358/i-loved-charlieissocoollikes-recent-video-dont",
-        "display_url" : "karenkavett.tumblr.com/post/221755433…"
+        "url" : "http:\/\/t.co\/pMsmfxXZ",
+        "expanded_url" : "http:\/\/karenkavett.tumblr.com\/post\/22175543358\/i-loved-charlieissocoollikes-recent-video-dont",
+        "display_url" : "karenkavett.tumblr.com\/post\/221755433\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "197179045518131200",
-    "text" : "Check out the Don't Break the Chain calendar I designed, inspired by @coollike's recent video: http://t.co/pMsmfxXZ",
+    "text" : "Check out the Don't Break the Chain calendar I designed, inspired by @coollike's recent video: http:\/\/t.co\/pMsmfxXZ",
     "id" : 197179045518131200,
-    "created_at" : "Tue May 01 04:22:02 +0000 2012",
+    "created_at" : "2012-05-01 04:22:02 +0000",
     "user" : {
       "name" : "Karen Kavett",
       "screen_name" : "karenkavett",
       "protected" : false,
       "id_str" : "16512361",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2163406283/twitter_icon_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000280682348\/fefda4b48a50d37109ee7ef7d7a113de_normal.jpeg",
       "id" : 16512361,
       "verified" : false
     }
   },
   "id" : 197640516253401088,
-  "created_at" : "Wed May 02 10:55:45 +0000 2012",
+  "created_at" : "2012-05-02 10:55:45 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "GA Tech Engineers",
@@ -4852,69 +4722,66 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197506427747713026",
-  "text" : ".@GaTechEngineers A Highland Bakery seems quite… random. Can't see me going there that often.",
+  "text" : ".@GaTechEngineers A Highland Bakery seems quite\u2026 random. Can't see me going there that often.",
   "id" : 197506427747713026,
-  "created_at" : "Wed May 02 02:02:56 +0000 2012",
+  "created_at" : "2012-05-02 02:02:56 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197487796338950145",
   "text" : "I want to write out long reviews of my classes cause I feel like CIOS isn't enough.",
   "id" : 197487796338950145,
-  "created_at" : "Wed May 02 00:48:54 +0000 2012",
+  "created_at" : "2012-05-02 00:48:54 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197486821410750465",
   "text" : "Conclusions from the CULC - Sticking your hand in the elevator doorway because you're late is more successful than pushing the button again.",
   "id" : 197486821410750465,
-  "created_at" : "Wed May 02 00:45:02 +0000 2012",
+  "created_at" : "2012-05-02 00:45:02 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Steve Losh",
@@ -4927,121 +4794,116 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197473775065890817",
   "text" : "RT @stevelosh: Saying \"read the source code\" instead of having docs is like telling a 16 year old to learn to drive by going to a mechan ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "197470583498358784",
     "text" : "Saying \"read the source code\" instead of having docs is like telling a 16 year old to learn to drive by going to a mechanic's shop.",
     "id" : 197470583498358784,
-    "created_at" : "Tue May 01 23:40:30 +0000 2012",
+    "created_at" : "2012-05-01 23:40:30 +0000",
     "user" : {
       "name" : "Steve Losh",
       "screen_name" : "stevelosh",
       "protected" : false,
       "id_str" : "727813",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/71018215/bass-icon_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/71018215\/bass-icon_normal.jpg",
       "id" : 727813,
       "verified" : false
     }
   },
   "id" : 197473775065890817,
-  "created_at" : "Tue May 01 23:53:11 +0000 2012",
+  "created_at" : "2012-05-01 23:53:11 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197451763383676928",
   "text" : "There should be a rule at Starbucks that you must be waiting 1ft away from the coffee waiting counter.",
   "id" : 197451763383676928,
-  "created_at" : "Tue May 01 22:25:43 +0000 2012",
+  "created_at" : "2012-05-01 22:25:43 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 53, 73 ],
-      "url" : "http://t.co/DM17N79d",
-      "expanded_url" : "http://twitpic.com/9g5xgm",
-      "display_url" : "twitpic.com/9g5xgm"
+      "url" : "http:\/\/t.co\/DM17N79d",
+      "expanded_url" : "http:\/\/twitpic.com\/9g5xgm",
+      "display_url" : "twitpic.com\/9g5xgm"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197451074175647744",
-  "text" : "In case you didn't know. This is a large wood shelf. http://t.co/DM17N79d",
+  "text" : "In case you didn't know. This is a large wood shelf. http:\/\/t.co\/DM17N79d",
   "id" : 197451074175647744,
-  "created_at" : "Tue May 01 22:22:59 +0000 2012",
+  "created_at" : "2012-05-01 22:22:59 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197449591644372994",
   "text" : "Ooo! Fringe is on iTunes. Want.",
   "id" : 197449591644372994,
-  "created_at" : "Tue May 01 22:17:05 +0000 2012",
+  "created_at" : "2012-05-01 22:17:05 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Famiglietti",
@@ -5055,14 +4917,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "197434121331552256",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197434658819022852",
   "in_reply_to_user_id" : 15356371,
   "text" : "@afamiglietti Some kind of physical switch device?",
   "id" : 197434658819022852,
   "in_reply_to_status_id" : 197434121331552256,
-  "created_at" : "Tue May 01 21:17:45 +0000 2012",
+  "created_at" : "2012-05-01 21:17:45 +0000",
   "in_reply_to_screen_name" : "afamiglietti",
   "in_reply_to_user_id_str" : "15356371",
   "user" : {
@@ -5070,12 +4931,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "GT Computing",
@@ -5089,14 +4950,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "197418583679188992",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197425546567757824",
   "in_reply_to_user_id" : 16890685,
   "text" : "@gtcomputing Ahh! I should've done that! Sad.",
   "id" : 197425546567757824,
   "in_reply_to_status_id" : 197418583679188992,
-  "created_at" : "Tue May 01 20:41:32 +0000 2012",
+  "created_at" : "2012-05-01 20:41:32 +0000",
   "in_reply_to_screen_name" : "gtcomputing",
   "in_reply_to_user_id_str" : "16890685",
   "user" : {
@@ -5104,12 +4964,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "GT Computing",
@@ -5122,46 +4982,44 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197412859876093952",
   "text" : "I'm going to go teach Simon something at @gtcomputing. Whee!",
   "id" : 197412859876093952,
-  "created_at" : "Tue May 01 19:51:08 +0000 2012",
+  "created_at" : "2012-05-01 19:51:08 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197395537358635008",
   "text" : "I'm bored and I can't think of anything to do. :E",
   "id" : 197395537358635008,
-  "created_at" : "Tue May 01 18:42:18 +0000 2012",
+  "created_at" : "2012-05-01 18:42:18 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Daniel Stewart",
@@ -5180,20 +5038,19 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 94, 114 ],
-      "url" : "http://t.co/o1ksLl2a",
-      "expanded_url" : "http://www.coe.gatech.edu/content/mm-mentoring",
-      "display_url" : "coe.gatech.edu/content/mm-men…"
+      "url" : "http:\/\/t.co\/o1ksLl2a",
+      "expanded_url" : "http:\/\/www.coe.gatech.edu\/content\/mm-mentoring",
+      "display_url" : "coe.gatech.edu\/content\/mm-men\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "197367481977933824",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197369641113370626",
   "in_reply_to_user_id" : 18177421,
-  "text" : "@dalek07 @georgiatech In my freshmen year there was some \"M and M\" mentoring program by Tech. http://t.co/o1ksLl2a",
+  "text" : "@dalek07 @georgiatech In my freshmen year there was some \"M and M\" mentoring program by Tech. http:\/\/t.co\/o1ksLl2a",
   "id" : 197369641113370626,
   "in_reply_to_status_id" : 197367481977933824,
-  "created_at" : "Tue May 01 16:59:24 +0000 2012",
+  "created_at" : "2012-05-01 16:59:24 +0000",
   "in_reply_to_screen_name" : "dalek07",
   "in_reply_to_user_id_str" : "18177421",
   "user" : {
@@ -5201,12 +5058,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Eric Weinhoffer",
@@ -5220,14 +5077,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "197347599861288960",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197354106912899072",
   "in_reply_to_user_id" : 18828237,
   "text" : "@eweinhoffer I need to get into that stuff next semester. &lt;3 tiny TARDIS",
   "id" : 197354106912899072,
   "in_reply_to_status_id" : 197347599861288960,
-  "created_at" : "Tue May 01 15:57:40 +0000 2012",
+  "created_at" : "2012-05-01 15:57:40 +0000",
   "in_reply_to_screen_name" : "eweinhoffer",
   "in_reply_to_user_id_str" : "18828237",
   "user" : {
@@ -5235,12 +5091,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brandon Dean",
@@ -5254,14 +5110,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "197334292081283072",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197342065904988160",
   "in_reply_to_user_id" : 14098524,
   "text" : "@brandondean That would be awesome.",
   "id" : 197342065904988160,
   "in_reply_to_status_id" : 197334292081283072,
-  "created_at" : "Tue May 01 15:09:49 +0000 2012",
+  "created_at" : "2012-05-01 15:09:49 +0000",
   "in_reply_to_screen_name" : "brandondean",
   "in_reply_to_user_id_str" : "14098524",
   "user" : {
@@ -5269,35 +5124,34 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197318822796083200",
   "text" : "The new Skype for iOS is Microsoft pushing metro-like styles into iOS. It's not working.",
   "id" : 197318822796083200,
-  "created_at" : "Tue May 01 13:37:28 +0000 2012",
+  "created_at" : "2012-05-01 13:37:28 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tom Merritt",
@@ -5310,52 +5164,50 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 75, 95 ],
-      "url" : "http://t.co/TSYE1yHH",
-      "expanded_url" : "http://money.cnn.com/2012/04/30/markets/ron-conway-tech-bubble/index.htm",
-      "display_url" : "money.cnn.com/2012/04/30/mar…"
+      "url" : "http:\/\/t.co\/TSYE1yHH",
+      "expanded_url" : "http:\/\/money.cnn.com\/2012\/04\/30\/markets\/ron-conway-tech-bubble\/index.htm",
+      "display_url" : "money.cnn.com\/2012\/04\/30\/mar\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197280394742210560",
-  "text" : "RT @acedtect: First sign of a bubble? People insisting there is no bubble. http://t.co/TSYE1yHH",
+  "text" : "RT @acedtect: First sign of a bubble? People insisting there is no bubble. http:\/\/t.co\/TSYE1yHH",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 61, 81 ],
-        "url" : "http://t.co/TSYE1yHH",
-        "expanded_url" : "http://money.cnn.com/2012/04/30/markets/ron-conway-tech-bubble/index.htm",
-        "display_url" : "money.cnn.com/2012/04/30/mar…"
+        "url" : "http:\/\/t.co\/TSYE1yHH",
+        "expanded_url" : "http:\/\/money.cnn.com\/2012\/04\/30\/markets\/ron-conway-tech-bubble\/index.htm",
+        "display_url" : "money.cnn.com\/2012\/04\/30\/mar\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "197169367694327809",
-    "text" : "First sign of a bubble? People insisting there is no bubble. http://t.co/TSYE1yHH",
+    "text" : "First sign of a bubble? People insisting there is no bubble. http:\/\/t.co\/TSYE1yHH",
     "id" : 197169367694327809,
-    "created_at" : "Tue May 01 03:43:35 +0000 2012",
+    "created_at" : "2012-05-01 03:43:35 +0000",
     "user" : {
       "name" : "Tom Merritt",
       "screen_name" : "acedtect",
       "protected" : false,
       "id_str" : "610533",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2739713937/92225e9022df4eb793a901a5dbce7234_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000634907530\/7e9f3b75be850ac447598e6f41b1e7a6_normal.jpeg",
       "id" : 610533,
       "verified" : true
     }
   },
   "id" : 197280394742210560,
-  "created_at" : "Tue May 01 11:04:46 +0000 2012",
+  "created_at" : "2012-05-01 11:04:46 +0000",
   "user" : {
     "name" : "Tanner Smith",
     "screen_name" : "TannerLD",
     "protected" : false,
     "id_str" : "7719912",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1307470328/512_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3530448176\/e02b433693d7d0d8fe76810ea33dab75_normal.jpeg",
     "id" : 7719912,
     "verified" : false
   }
